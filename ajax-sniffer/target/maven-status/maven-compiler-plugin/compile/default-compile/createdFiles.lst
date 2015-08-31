@@ -1,0 +1,8 @@
+com\peony\ajax_sniffer\Type.class
+com\peony\ajax_sniffer\TemplateClassifier.class
+com\peony\ajax_sniffer\Utils.class
+com\peony\ajax_sniffer\ConnectionManager.class
+com\peony\ajax_sniffer\HtmlUnitClassifier.class
+com\peony\ajax_sniffer\App.class
+com\peony\ajax_sniffer\InfoSource.class
+com\peony\ajax_sniffer\WorkThread.class

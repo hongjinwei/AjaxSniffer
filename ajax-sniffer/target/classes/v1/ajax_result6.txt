@@ -1,0 +1,329 @@
+ajax website: 57487 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=46
+not ajax website: 56928 http://www.yzdzw.gov.cn/html/zuzhijigou/zhengfubumen/lvyouju/
+not ajax website: 53717 http://www.mhi.com.cn/news/tab2/2014/index.html
+not ajax website: 56915 http://www.yzdzw.gov.cn/html/zuzhijigou/zhengfubumen/fazhiban/
+ajax website: 57489 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=48
+ajax website: 57488 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=47
+ajax website: 57491 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=216
+ajax website: 57490 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=36
+ajax website: 57492 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=40
+ajax website: 57494 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=376
+ajax website: 57493 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=71
+ajax website: 57496 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=59
+ajax website: 57495 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=42
+ajax website: 57497 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=242
+ajax website: 57499 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=251
+ajax website: 57498 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=228
+ajax website: 57501 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=43
+ajax website: 57500 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=218
+ajax website: 57504 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=233
+ajax website: 57503 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=79
+ajax website: 57506 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=75
+ajax website: 57505 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=377
+ajax website: 57507 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=378
+ajax website: 57509 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=239
+ajax website: 57508 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=238
+ajax website: 57511 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=241
+ajax website: 57510 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=240
+not ajax website: 57547 http://advertise.hdt.net.cn/hotel/
+not ajax website: 57539 http://bbs.hdt.net.cn
+not ajax website: 57548 http://advertise.hdt.net.cn/meishi/
+ajax website: 57573 http://www.nx.cn/forum-270-1.html
+ajax website: 57571 http://www.nx.cn/forum-585-1.html
+ajax website: 57664 http://www.cfsn.cn/locality/tianjin/
+ajax website: 57663 http://www.chinadaily.com.cn/dfpd/node_1062678.htm
+ajax website: 57666 http://www.cfsn.cn/locality/shanxi/
+ajax website: 57665 http://www.cfsn.cn/locality/hebei/
+ajax website: 57668 http://www.cfsn.cn/locality/liaoning/
+ajax website: 57667 http://www.cfsn.cn/locality/neimenggu/
+ajax website: 57670 http://www.cfsn.cn/locality/heilongjiang/
+ajax website: 57669 http://www.cfsn.cn/locality/jilin/
+ajax website: 57672 http://www.cfsn.cn/locality/shandong/
+ajax website: 57671 http://www.cfsn.cn/locality/henan/
+ajax website: 57674 http://www.cfsn.cn/locality/zhejiang/
+ajax website: 57673 http://www.cfsn.cn/locality/anhui/
+ajax website: 57676 http://www.cfsn.cn/locality/jiangsu/
+ajax website: 57677 http://www.cfsn.cn/locality/jiangxi/
+ajax website: 57680 http://www.cfsn.cn/locality/hainan/
+ajax website: 57681 http://www.cfsn.cn/locality/shanghai/
+ajax website: 57682 http://www.cfsn.cn/locality/shenzhen/
+ajax website: 57683 http://www.cfsn.cn/locality/chongqing/
+ajax website: 57684 http://www.cfsn.cn/locality/sichuan/
+ajax website: 57685 http://www.cfsn.cn/locality/hubei/
+ajax website: 57686 http://www.cfsn.cn/locality/hunan/
+ajax website: 57687 http://www.cfsn.cn/locality/yunnan/
+ajax website: 57688 http://www.cfsn.cn/locality/guizhou/
+ajax website: 57689 http://www.cfsn.cn/locality/xizang/
+ajax website: 57690 http://www.cfsn.cn/locality/shaanxi/
+ajax website: 57691 http://www.cfsn.cn/locality/gansu/
+ajax website: 57692 http://www.cfsn.cn/locality/xinjiang/
+ajax website: 57693 http://www.cfsn.cn/locality/qinghai/
+ajax website: 57694 http://www.cfsn.cn/locality/ningxia/
+ajax website: 57695 http://www.cfsn.cn/locality/node_4645.htm
+ajax website: 57696 http://www.cfsn.cn/locality/dalian/
+ajax website: 57697 http://www.cfsn.cn/locality/qingdao/
+ajax website: 57698 http://www.cfsn.cn/locality/xiamen/
+ajax website: 57759 http://bbs.gz.house.163.com/
+not ajax website: 57770 http://www.winshang.com/brandunion/index.html
+not ajax website: 57789 http://war.163.com/special/war_yuetu/#hot
+ajax website: 57894 http://www.bushinet.com/bbs/index.php
+not ajax website: 57903 http://www.bushinet.com/
+not ajax website: 57927 http://fgs.ciming.com/sz/tijianfuwu/
+not ajax website: 57947 http://fgs.ciming.com/gz/tijianfuwu/
+not ajax website: 58055 http://www.0937.com/forum/board-25556-1-1.html
+not ajax website: 58063 http://www.0937.com/forum/board-10649-1-1.html
+not ajax website: 58064 http://www.0937.com/forum/board-129101-1-1.html
+not ajax website: 58065 http://www.0937.com/forum/board-21561-1-1.html
+not ajax website: 58068 http://www.0937.com/forum/board-10644-1-1.html
+not ajax website: 58074 http://www.0937.com/forum/board-20821-1-1.html
+not ajax website: 58080 http://www.0937.com/forum/board-22772-1-1.html
+not ajax website: 58081 http://www.0937.com/forum/board-22775-1-1.html
+not ajax website: 58082 http://www.0937.com/forum/board-22773-1-1.html
+not ajax website: 58099 http://www.0937.com/forum/board-75422-1-1.html
+not ajax website: 58100 http://www.0937.com/forum/board-30469-1-1.html
+not ajax website: 58102 http://www.0937.com/forum/board-10661-1-1.html
+not ajax website: 58106 http://www.0937.com/forum/board-28039-1-1.html
+not ajax website: 58136 http://www.chengdechina.net/forum-250-1.html
+ajax website: 58139 http://www.lfluntan.com/forum-130-1.html
+ajax website: 57678 http://www.cfsn.cn/locality/guangdong/
+not ajax website: 55848 http://love.gxnews.com.cn/
+ajax website: 57675 http://www.cfsn.cn/locality/fujian/
+ajax website: 57679 http://www.cfsn.cn/locality/guangxi/
+not ajax website: 58240 http://bbs.zjkinfo.net/thread.php?fid=14
+not ajax website: 58239 http://bbs.zjkinfo.net/thread.php?fid=91
+not ajax website: 58175 http://z.t.qq.com/zt2011/hbgrbqz/index.htm
+not ajax website: 58242 http://bbs.zjkinfo.net/thread.php?fid=1
+not ajax website: 58241 http://bbs.zjkinfo.net/thread.php?fid=41
+not ajax website: 58244 http://bbs.zjkinfo.net/thread.php?fid=11
+not ajax website: 58243 http://bbs.zjkinfo.net/thread.php?fid=4
+not ajax website: 58246 http://bbs.zjkinfo.net/thread.php?fid=80
+not ajax website: 58245 http://bbs.zjkinfo.net/thread.php?fid=8
+not ajax website: 58248 http://tv.hebei.com.cn/system/2013/04/15/012708769.shtml
+not ajax website: 58253 http://tv.hebei.com.cn/system/2013/04/24/012729509.shtml
+not ajax website: 58298 http://autoabcd.com/index.php?caid=838
+not ajax website: 58299 http://autoabcd.com/index.php?caid=847
+not ajax website: 58247 http://tv.hebei.com.cn/system/2013/04/15/012708767.shtml
+not ajax website: 58308 http://autoabcd.com/info.php?aid=91
+not ajax website: 58309 http://autoabcd.com/info.php?aid=95
+not ajax website: 58252 http://tv.hebei.com.cn/system/2013/04/24/012729504.shtml
+ajax website: 58341 http://hd.stheadline.com/beauty/
+ajax website: 58340 http://hd.stheadline.com/shopping/
+ajax website: 58343 http://hd.stheadline.com/living/
+ajax website: 58344 http://hd.stheadline.com/digital/
+ajax website: 58345 http://hd.stheadline.com/fortune/
+ajax website: 58347 http://hd.stheadline.com/racing/
+ajax website: 58346 http://hd.stheadline.com/arts/
+ajax website: 58372 http://hd.stheadline.com/ent/ent_vote.asp
+ajax website: 58376 http://hd.stheadline.com/ent/ent_channel_list.asp
+ajax website: 58374 http://hd.stheadline.com/ent/staractlist.asp
+ajax website: 58382 http://hd.stheadline.com/dining/search_result.asp
+ajax website: 58392 http://hd.stheadline.com/shopping/index.html
+ajax website: 58393 http://hd.stheadline.com/shopping/index.html#shopping02
+ajax website: 58386 http://travel.stheadline.com/travel/travel_photo_index.asp
+ajax website: 58395 http://hd.stheadline.com/beauty/index.html#beauty02
+ajax website: 58396 http://hd.stheadline.com/beauty/index.html#beauty03
+ajax website: 58408 http://hd.stheadline.com/digital/digital_subindex.asp?catid=261
+ajax website: 58409 http://hd.stheadline.com/digital/digital_subindex.asp?catid=270
+ajax website: 58410 http://hd.stheadline.com/digital/digital_subindex.asp?catid=277
+ajax website: 58394 http://hd.stheadline.com/beauty/index.html#beauty01
+ajax website: 58413 http://hd.stheadline.com/fortune/index.html#section01
+ajax website: 58411 http://hd.stheadline.com/digital/digital_subindex.asp?catid=283
+ajax website: 58414 http://hd.stheadline.com/fortune/index.html#section02
+ajax website: 58415 http://hd.stheadline.com/fortune/index.html#section03
+ajax website: 58425 http://hd.stheadline.com/racing/racing_odds_livebet.asp
+ajax website: 58424 http://hd.stheadline.com/racing/racing_position.asp
+ajax website: 58428 http://hd.stheadline.com/racing/racing_db_01.asp
+ajax website: 58426 http://hd.stheadline.com/racing/racing_professional_tips.asp
+not ajax website: 58592 http://www.txw6.com/discuz/forum.php?mod=forumdisplay&fid=65
+not ajax website: 58593 http://www.txw6.com/discuz/forum.php?mod=forumdisplay&fid=61
+not ajax website: 58598 http://bbs.home0411.com/forum-124-1.html
+not ajax website: 58599 http://bbs.home0411.com/forum-166-1.html
+not ajax website: 58600 http://bbs.home0411.com/forum-35-1.html
+not ajax website: 58601 http://bbs.home0411.com/forum-399-1.html
+not ajax website: 58602 http://bbs.home0411.com/forum-151-1.html
+not ajax website: 58603 http://bbs.home0411.com/forum-119-1.html
+not ajax website: 58604 http://bbs.home0411.com/forum-1280-1.html
+not ajax website: 58605 http://bbs.home0411.com/forum-1281-1.html
+not ajax website: 58606 http://bbs.home0411.com/forum-277-1.html
+not ajax website: 58607 http://bbs.home0411.com/forum-1290-1.html
+not ajax website: 58608 http://bbs.home0411.com/forum-1289-1.html
+not ajax website: 58609 http://bbs.home0411.com/forum-1291-1.html
+not ajax website: 58610 http://bbs.home0411.com/forum-1293-1.html
+not ajax website: 58611 http://bbs.home0411.com/forum-1317-1.html
+not ajax website: 58612 http://bbs.home0411.com/forum-1310-1.html
+not ajax website: 58613 http://bbs.home0411.com/forum-1283-1.html
+not ajax website: 58614 http://bbs.home0411.com/forum-447-1.html
+not ajax website: 58615 http://bbs.home0411.com/forum-1285-1.html
+not ajax website: 58616 http://bbs.home0411.com/forum-440-1.html
+not ajax website: 58617 http://bbs.home0411.com/forum-1300-1.html
+not ajax website: 58618 http://bbs.home0411.com/forum-1301-1.html
+not ajax website: 58619 http://bbs.home0411.com/forum-125-1.html
+not ajax website: 58620 http://bbs.home0411.com/forum-449-1.html
+not ajax website: 58621 http://bbs.home0411.com/forum-1316-1.html
+not ajax website: 58622 http://bbs.home0411.com/forum-446-1.html
+not ajax website: 58623 http://bbs.home0411.com/forum-1296-1.html
+not ajax website: 58624 http://bbs.home0411.com/forum-1298-1.html
+not ajax website: 58625 http://bbs.home0411.com/forum-1307-1.html
+not ajax website: 58626 http://bbs.home0411.com/forum-1276-1.html
+not ajax website: 58627 http://bbs.home0411.com/forum-1308-1.html
+not ajax website: 58628 http://bbs.home0411.com/forum-450-1.html
+not ajax website: 58629 http://bbs.home0411.com/forum-1303-1.html
+not ajax website: 58630 http://bbs.home0411.com/forum-1304-1.html
+not ajax website: 58631 http://bbs.home0411.com/forum-415-1.html
+not ajax website: 58632 http://bbs.home0411.com/forum-140-1.html
+not ajax website: 58633 http://bbs.home0411.com/forum-136-1.html
+not ajax website: 58634 http://bbs.home0411.com/forum-1313-1.html
+not ajax website: 58635 http://bbs.home0411.com/forum-1312-1.html
+not ajax website: 58636 http://bbs.home0411.com/forum-452-1.html
+not ajax website: 58637 http://bbs.home0411.com/forum-1314-1.html
+not ajax website: 58638 http://bbs.home0411.com/forum-1315-1.html
+not ajax website: 58639 http://bbs.home0411.com/forum-403-1.html
+not ajax website: 58640 http://bbs.home0411.com/forum-57-1.html
+not ajax website: 58641 http://bbs.home0411.com/forum-17-1.html
+not ajax website: 58642 http://bbs.home0411.com/forum-1318-1.html
+not ajax website: 58653 http://zggong.cailiao.com/
+not ajax website: 58654 http://zggong.cailiao.com/supply/
+not ajax website: 58655 http://zggong.cailiao.com/goods/
+not ajax website: 58656 http://zggong.cailiao.com/news/
+not ajax website: 58657 http://zggong.cailiao.com/cert/
+not ajax website: 58658 http://zggong.cailiao.com/job/
+ajax website: 58700 http://weibo.com/tronic
+ajax website: 58709 http://www.zunhua8.com/forum-26-1.html
+ajax website: 58710 http://www.zunhua8.com/forum-286-1.html
+ajax website: 58711 http://www.zunhua8.com/forum-296-1.html
+ajax website: 58712 http://www.zunhua8.com/forum-291-1.html
+ajax website: 58713 http://www.zunhua8.com/forum-292-1.html
+ajax website: 58714 http://www.zunhua8.com/forum-96-1.html
+ajax website: 58715 http://www.zunhua8.com/forum-47-1.html
+ajax website: 58716 http://www.zunhua8.com/forum-130-1.html
+ajax website: 58717 http://www.zunhua8.com/forum-297-1.html
+ajax website: 58718 http://www.zunhua8.com/forum-301-1.html
+ajax website: 58719 http://www.zunhua8.com/forum-303-1.html
+ajax website: 58720 http://www.zunhua8.com/forum-272-1.html
+ajax website: 58721 http://www.zunhua8.com/forum-287-1.html
+ajax website: 58723 http://www.zunhua8.com/forum-241-1.html
+ajax website: 58724 http://www.zunhua8.com/forum-302-1.html
+ajax website: 58725 http://www.zunhua8.com/forum-300-1.html
+ajax website: 58722 http://www.zunhua8.com/forum-243-1.html
+ajax website: 58727 http://www.zunhua8.com/forum-283-1.html
+ajax website: 58726 http://www.zunhua8.com/forum-127-1.html
+ajax website: 58728 http://www.zunhua8.com/forum-25-1.html
+ajax website: 58729 http://www.zunhua8.com/forum-107-1.html
+ajax website: 58730 http://www.zunhua8.com/forum.php
+ajax website: 58731 http://www.zunhua8.com/forum-253-1.html
+ajax website: 58732 http://www.zunhua8.com/forum-290-1.html
+ajax website: 58733 http://www.zunhua8.com/forum-247-1.html
+ajax website: 58734 http://www.zunhua8.com/forum-244-1.html
+ajax website: 58735 http://www.zunhua8.com/forum-267-1.html
+ajax website: 58737 http://www.zunhua8.com/forum-240-1.html
+ajax website: 58736 http://www.zunhua8.com/forum-265-1.html
+ajax website: 58738 http://www.zunhua8.com/forum-246-1.html
+ajax website: 58956 http://bbs.hengshui0318.cn/forum-124-1.html
+ajax website: 58976 http://www.changning.sh.cn/col/col1623/index.html
+ajax website: 58739 http://www.zunhua8.com/forum-284-1.html
+not ajax website: 59014 http://fgs.ciming.com/tj/tijianzhongxin/tijianhuanjing/2012-07-23/2090.html
+not ajax website: 59015 http://fgs.ciming.com/tj/tijianzhongxin/tijianhuanjing/2012-07-23/2089.html
+not ajax website: 59016 http://fgs.ciming.com/tj/tijianzhongxin/xianjinshebei/2012-07-24/2111.html
+not ajax website: 59017 http://fgs.ciming.com/tj/tijianzhongxin/tijianhuanjing/2012-07-23/2091.html
+not ajax website: 59018 http://fgs.ciming.com/tj/tijianzhongxin/tijianhuanjing/2012-07-23/2088.html
+ajax website: 59099 http://www.shufe.org/bbs/b/b.asp?B=998
+not ajax website: 59129 http://www.sasacgs.gov.cn/list.jsp?classid=10
+not ajax website: 59163 http://u.55188.com/space-doing-view-all.html
+ajax website: 59170 http://www.55188.com/lxt/index.htm
+not ajax website: 59190 http://u.8264.com/
+ajax website: 59204 http://bbs.8264.com/forum-43-1.html
+not ajax website: 59234 http://www.68cne.cn/about.asp?action=ads
+not ajax website: 59244 http://www.68cne.cn/cp_view.asp?id=103
+not ajax website: 59248 http://www.tj.gov.cn/./tblm/syljpd/indexxllj/zybmwz/201007/t20100727_122081.htm
+not ajax website: 59249 http://www.tj.gov.cn/./tblm/syljpd/indexxllj/gsszfwz/200709/t20070918_22471.htm
+ajax website: 59250 http://www.tj.gov.cn/./xxly/tjcf/
+not ajax website: 59255 http://www.tj.gov.cn/./tblm/syljpd/indexxllj/gsszfwz/200709/t20070918_22450.htm
+ajax website: 59256 http://www.tj.gov.cn/./wsbs/gr/jypx/
+not ajax website: 59257 http://www.tj.gov.cn/./tblm/syljpd/indexxllj/zybmwz/200709/t20070917_22394.htm
+ajax website: 59258 http://www.tj.gov.cn/./zjtj/shsy/
+ajax website: 59259 http://www.tj.gov.cn/./hdsq/wsdc/
+ajax website: 59260 http://www.tj.gov.cn/./jmjj/xmjj/
+not ajax website: 59262 http://www.tj.gov.cn/./tblm/syljpd/indexxllj/zybmwz/200709/t20070917_22361.htm
+not ajax website: 59263 http://www.tj.gov.cn/./tblm/syljpd/indexxllj/gsszfwz/200709/t20070918_22491.htm
+not ajax website: 59264 http://www.tj.gov.cn/./tblm/syljpd/indexxllj/gsszfwz/200709/t20070918_22506.htm
+not ajax website: 59265 http://www.tj.gov.cn/./tblm/syljpd/indexxllj/gsszfwz/200709/t20070918_22485.htm
+ajax website: 59266 http://www.tj.gov.cn/./hdsq/zxft/
+not ajax website: 59267 http://www.tj.gov.cn/./tblm/syljpd/indexxllj/zybmwz/200903/t20090316_89134.htm
+not ajax website: 59269 http://www.tj.gov.cn/./tblm/syljpd/indexxllj/gsszfwz/200709/t20070918_22486.htm
+ajax website: 59270 http://www.tj.gov.cn/./xxly/xxly/
+not ajax website: 59271 http://www.tj.gov.cn/./tblm/syljpd/indexxllj/zybmwz/200709/t20070917_22395.htm
+ajax website: 59272 http://www.tj.gov.cn/./xxly/tjyx/
+ajax website: 59273 http://www.tj.gov.cn/./xxly/jmwh/
+ajax website: 59274 http://www.tj.gov.cn/./zjtj/qurk/
+ajax website: 59276 http://www.tj.gov.cn/./zjtj/zrdl/
+not ajax website: 59278 http://www.tj.gov.cn/./tblm/syljpd/indexxllj/gsszfwz/200709/t20070918_22499.htm
+ajax website: 59279 http://www.tj.gov.cn/./xxly/bfjq/
+ajax website: 59280 http://www.tj.gov.cn/./wsbs/gr/shbz/
+not ajax website: 59281 http://www.tj.gov.cn/./tblm/syljpd/indexxllj/gsszfwz/200709/t20070918_22477.htm
+ajax website: 59282 http://www.tj.gov.cn/./zjtj/tjjj/
+not ajax website: 59283 http://www.tj.gov.cn/./tblm/syljpd/indexxllj/gsszfwz/200709/t20070918_22513.htm
+not ajax website: 59284 http://www.tj.gov.cn/./tblm/syljpd/indexxllj/gsszfwz/200709/t20070918_22492.htm
+ajax website: 59285 http://www.tj.gov.cn/./zjtj/rwtj/
+not ajax website: 59287 http://www.tj.gov.cn/./tblm/syljpd/indexxllj/gsszfwz/200709/t20070918_22509.htm
+not ajax website: 59288 http://www.tj.gov.cn/./tblm/syljpd/indexxllj/gsszfwz/200709/t20070918_22488.htm
+not ajax website: 59289 http://www.tj.gov.cn/./tblm/syljpd/indexxllj/zybmwz/200709/t20070917_22357.htm
+not ajax website: 59290 http://www.tj.gov.cn/./tblm/syljpd/indexxllj/gsszfwz/200709/t20070918_22510.htm
+not ajax website: 59291 http://www.tj.gov.cn/./tblm/syljpd/indexxllj/gsszfwz/200709/t20070918_22498.htm
+ajax website: 59292 http://www.tj.gov.cn/./xxly/lyxw/
+not ajax website: 59296 http://www.tj.gov.cn/./tblm/syljpd/indexxllj/zybmwz/200709/t20070917_22374.htm
+ajax website: 59298 http://www.tj.gov.cn/./xxly/zjzn/
+ajax website: 59299 http://www.tj.gov.cn/./zjtj/sptj/
+not ajax website: 59300 http://www.tj.gov.cn/./tblm/syljpd/indexxllj/gsszfwz/200709/t20070918_22500.htm
+not ajax website: 59302 http://www.tj.gov.cn/./tblm/syljpd/indexxllj/gsszfwz/200709/t20070918_22473.htm
+not ajax website: 59303 http://www.tj.gov.cn/./tblm/syljpd/indexxllj/gsszfwz/200709/t20070918_22487.htm
+not ajax website: 59304 http://www.tj.gov.cn/./tblm/syljpd/indexxllj/gsszfwz/200709/t20070918_22484.htm
+ajax website: 59305 http://www.tj.gov.cn/./xxly/lysw/
+not ajax website: 59306 http://www.tj.gov.cn/./tblm/syljpd/indexxllj/zybmwz/200709/t20070917_22371.htm
+not ajax website: 59307 http://www.tj.gov.cn/./tblm/syljpd/indexxllj/gsszfwz/200709/t20070918_22511.htm
+ajax website: 59308 http://www.tj.gov.cn/./zjtj/lsyg/
+not ajax website: 59309 http://www.tj.gov.cn/./tblm/syljpd/indexxllj/gsszfwz/200709/t20070918_22478.htm
+not ajax website: 59310 http://www.tj.gov.cn/./tblm/syljpd/indexxllj/zybmwz/200903/t20090316_89135.htm
+not ajax website: 59312 http://www.tj.gov.cn/./tblm/syljpd/indexxllj/gsszfwz/200709/t20070918_22497.htm
+not ajax website: 59313 http://www.tj.gov.cn/./tblm/syljpd/indexxllj/gsszfwz/200709/t20070918_22494.htm
+ajax website: 59316 http://www.tj.gov.cn/./xxly/rdlx/
+not ajax website: 59317 http://www.tj.gov.cn/./tblm/syljpd/indexxllj/gsszfwz/200709/t20070918_22479.htm
+not ajax website: 59320 http://www.tj.gov.cn/./tblm/syljpd/indexxllj/gsszfwz/200709/t20070918_22507.htm
+ajax website: 59321 http://www.tj.gov.cn/./xxly/yztj/
+ajax website: 59322 http://www.tj.gov.cn/./bhxq/zldw/
+not ajax website: 59323 http://www.tj.gov.cn/./tblm/syljpd/indexxllj/gsszfwz/200709/t20070918_22481.htm
+ajax website: 59324 http://www.tj.gov.cn/./wsbs/tzz/zjsh/
+not ajax website: 59325 http://www.tj.gov.cn/./tblm/syljpd/indexxllj/indexzdlj/200709/t20070917_22322.htm
+not ajax website: 59326 http://www.tj.gov.cn/./tblm/syljpd/indexxllj/gsszfwz/200709/t20070918_22493.htm
+ajax website: 59328 http://www.tj.gov.cn/./zjtj/yhcs/
+not ajax website: 59329 http://www.tj.gov.cn/./tblm/syljpd/indexxllj/gsszfwz/200709/t20070918_22504.htm
+not ajax website: 59330 http://www.tj.gov.cn/./tblm/syljpd/indexxllj/gsszfwz/200709/t20070918_22512.htm
+not ajax website: 59332 http://www.tj.gov.cn/./tblm/syljpd/indexxllj/gsszfwz/200709/t20070918_22490.htm
+not ajax website: 59333 http://www.tj.gov.cn/./tblm/syljpd/indexxllj/gsszfwz/200709/t20070918_22489.htm
+ajax website: 59334 http://www.tj.gov.cn/./xxly/fqhl/
+not ajax website: 59336 http://www.tj.gov.cn/./tblm/syljpd/indexxllj/gsszfwz/200709/t20070918_22508.htm
+ajax website: 59347 http://baby.enorth.com.cn/system/2014/11/25/012285845.shtml
+not ajax website: 59397 http://ms.enorth.com.cn/zmljl/q2.htm
+not ajax website: 59399 http://ms.enorth.com.cn/zmljl/mscd/index.shtml
+ajax website: 59401 http://news.enorth.com.cn/sh/
+not ajax website: 59423 http://teamwork.enorth.com.cn/system/2013/06/18/011076014.shtml
+not ajax website: 59424 http://economy.enorth.com.cn/jjsh/cpk/index.shtml
+not ajax website: 59426 http://travel.enorth.com.cn/system/2013/12/24/011556637.shtml
+ajax website: 59432 http://news.enorth.com.cn/gj/
+ajax website: 59446 http://news.enorth.com.cn/gn/
+not ajax website: 59453 http://ms.enorth.com.cn/zmljl/q3.htm
+not ajax website: 59470 http://yht.enorth.com.cn/
+ajax website: 59482 http://fashion.enorth.com.cn/mzh/index.shtml
+not ajax website: 59487 http://ms.enorth.com.cn/zmljl/q4.htm
+not ajax website: 59497 http://ttjk.tianjinwe.com/
+not ajax website: 59500 http://xs.tianjinwe.com/
+not ajax website: 59507 http://www.tianjinwe.com/hotn/rdzt/index.html
+ajax website: 59512 http://epaper.tianjinwe.com/xjrgcb
+not ajax website: 59516 http://bbs.tianjinwe.com/forum.php
+not ajax website: 59525 http://www.tianjinwe.com/./hotnews/xwzq/201412/t20141210_745691.html
+ajax website: 59621 http://BBS.gsftw.com/forum.php?mod=forumdisplay&fid=2
+ajax website: 59623 http://BBS.gsftw.com/forum.php?mod=forumdisplay&fid=53
+ajax website: 59625 http://BBS.gsftw.com/forum.php?mod=forumdisplay&fid=45
+ajax website: 59627 http://BBS.gsftw.com/forum.php?mod=forumdisplay&fid=46
+ajax website: 59629 http://BBS.gsftw.com/forum.php?mod=forumdisplay&fid=47
+ajax website: 59631 http://BBS.gsftw.com/forum.php?mod=forumdisplay&fid=74
+ajax website: 59633 http://BBS.gsftw.com/forum.php?mod=forumdisplay&fid=75

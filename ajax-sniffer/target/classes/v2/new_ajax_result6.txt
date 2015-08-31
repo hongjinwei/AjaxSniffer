@@ -1,0 +1,5 @@
+not ajax website: 74994 http://nhwb.cnjxol.com 平湖18楼
+not ajax website: 2617 http://www.sdast.org.cn/article_list.php?c_id=5 山东省科学技术协会
+ajax website: 58145 http://www.hbgrb.net//epaper/ 河北工人报
+not ajax website: 82026 http://www.ucatv.com.cn/ 乌鲁木齐信息港
+not ajax website: 67162 http://bbs.rongchang.net/forum.php?mod=forumdisplay&fid=37 荣昌之窗论坛

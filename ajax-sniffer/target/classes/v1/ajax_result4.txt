@@ -1,0 +1,183 @@
+not ajax website: 54289 http://liuyan.people.com.cn/forumdisplay.php?fid=453
+not ajax website: 55300 http://xjrb.xjrb.com:8080/
+not ajax website: 55614 http://help.hebnews.cn/xwrx.html
+not ajax website: 55303 http://bbs.sendsn.com/home.php?mod=space&username=365%C9%E7%C7%F8
+not ajax website: 55686 http://bbs.inhe.net/nbtl
+not ajax website: 55681 http://bbs.inhe.net/activity/index
+not ajax website: 55680 http://meishi.inhe.net
+not ajax website: 55660 http://www.hebei.gov.cn/hebei/11937442/12072881/index.html
+not ajax website: 55690 http://bbs.inhe.net/fangchanhuodong
+not ajax website: 55688 http://bbs.inhe.net/shmf
+not ajax website: 55703 http://xinxi.xinpg.com
+not ajax website: 55694 http://bbs.inhe.net/syahz
+not ajax website: 55712 http://bbs.inhe.net/lytx
+not ajax website: 55710 http://bbs.inhe.net/tanfanglunshi
+not ajax website: 55785 http://hongdou.gxnews.com.cn/service
+ajax website: 55762 http://hongdou.gxnews.com.cn/viewforum-34.html
+not ajax website: 55798 http://love.gxnews.com.cn
+ajax website: 55794 http://hongdou.gxnews.com.cn/viewforum-269.html
+ajax website: 55810 http://hongdou.gxnews.com.cn/register.php
+not ajax website: 55803 http://www.gxnews.com.cn/specialzip/599/
+ajax website: 55813 http://hs.yzdsb.com/space-username-%E7%A4%BE%E4%BC%9A.html
+ajax website: 55811 http://hongdou.gxnews.com.cn/viewforum-244.html
+ajax website: 55828 http://hongdou.gxnews.com.cn/viewthread-10532745.html
+not ajax website: 55815 http://search.gxnews.com.cn/hongdou
+ajax website: 55845 http://hongdou.gxnews.com.cn/viewforum-17.html
+not ajax website: 55879 http://www.hbfzb.com/index.php?m=content&c=index&a=lists&catid=876
+not ajax website: 55908 http://szzz.hbfzb.com/
+not ajax website: 55923 http://life.sjzcity.com/list/jypx_tyxx_1.shtml
+not ajax website: 55939 http://life.sjzcity.com/list/cx_gs_1.shtml
+not ajax website: 55941 http://life.sjzcity.com/list/gwcs_cryp_1.shtml
+not ajax website: 55949 http://health.sjzcity.com/list/xueshujiaoliu.shtml
+not ajax website: 55960 http://life.sjzcity.com/list/fzpf_1.shtml
+not ajax website: 55971 http://life.sjzcity.com/list/gwcs_lp_1.shtml
+not ajax website: 55975 http://life.sjzcity.com/list/gwcs_sc_1.shtml
+not ajax website: 55978 http://life.sjzcity.com/list/cx_gd_1.shtml
+not ajax website: 56022 http://bbs.zisai.com/forum-96-1.html
+not ajax website: 56023 http://bbs.zisai.com/forum.php
+not ajax website: 56024 http://i.zisai.com/space-username-%E9%92%93%E8%BF%B7%E8%80%81%E6%9D%8E.html
+not ajax website: 56025 http://i.zisai.com/space-username-%E5%A4%A7%E5%A5%BD%E4%BA%BA%E4%B8%80%E4%B8%AA.html
+not ajax website: 56027 http://i.zisai.com/space-username-%E9%87%8E%E8%8D%89.html
+ajax website: 56051 http://bbs.zjknews.com/forum.php?mod=forumdisplay&fid=179
+not ajax website: 56068 http://bbs.sjzcity.com/space-username-ciwei.html
+not ajax website: 56071 http://bbs.sjzcity.com/space-username-%E7%95%85%E6%89%80%E6%AC%B2%E8%A8%80.html
+not ajax website: 56073 http://bbs.sjzcity.com/space-username-%E7%81%AB%E6%B5%B7%E6%B7%B1%E6%B0%B4%E9%B1%BC.html
+not ajax website: 56075 http://bbs.sjzcity.com/space-username-%E7%AD%89%E5%BE%85%E6%97%A5%E8%AE%B0.html
+not ajax website: 56076 http://bbs.sjzcity.com/space-username-%E4%BA%AC%E5%9F%8E%E6%B8%B8%E5%AD%90.html
+not ajax website: 56077 http://bbs.sjzcity.com/space-username-%E4%B8%89%E8%BF%B7%E4%B9%9D%E6%AE%B5.html
+not ajax website: 56078 http://bbs.sjzcity.com/space-username-%E5%9D%9B%E9%B1%BC%E5%84%BF.html
+not ajax website: 56080 http://bbs.sjzcity.com/space-username-%E5%AD%A4%E7%8B%AC%E7%9A%84%E9%A3%8E.html
+not ajax website: 56083 http://bbs.sjzcity.com/space-username-loli.html
+not ajax website: 56125 http://www.xtbank.com/site902/gryw/zjyw/2011-03-11/413734.shtml
+not ajax website: 56126 http://www.xtbank.com/site902/gryw/lcyw/index.shtml
+not ajax website: 56127 http://www.xtbank.com/site902/khfw/rzxcs/2010-07-21/413180.shtml
+not ajax website: 56128 http://www.xtbank.com/site902/gryw/tstj/index.shtml
+not ajax website: 56129 http://www.xtbank.com/site902/gryw/cxyw/2010-07-23/413192.shtml
+not ajax website: 56130 http://www.xtbank.com/site902/gryw/dkyw/2011-03-11/413728.shtml
+not ajax website: 56132 http://www.hebbank.com/hebbank/fdcalc.html
+not ajax website: 56133 http://www.hebbank.com/hebbank/calc.html
+not ajax website: 56135 http://www.hebbank.com/gryw/cxyh/245906.html
+not ajax website: 56136 http://www.hebbank.com/gsyw/jccpfwtx/gsrzxyw/pj/233257.html
+not ajax website: 56137 http://www.hebbank.com/gsyw/jccpfwtx/gsrzxyw/pj/233260.html
+not ajax website: 56139 http://www.hebbank.com/jrfw/ckllb/index.html
+ajax website: 56186 http://www.ts-bank.cn/
+not ajax website: 56204 http://www.lfcmw.com/node/node_3422.htm
+not ajax website: 56209 http://www.lfcmw.com/content/2014-12/05/content_453117.htm
+ajax website: 56240 http://www.chncare.com/html/2013/shbt_0910/35.html
+not ajax website: 56329 http://www.hebccpi.com/plus/list.php?tid=1
+not ajax website: 56332 http://www.hebccpi.com/plus/list.php?tid=23
+not ajax website: 56349 http://www.hbqnb.com/tuangou/
+not ajax website: 56354 http://www.zjk169.net/pic/
+ajax website: 56381 http://news.zjkinfo.net
+ajax website: 56383 http://news.zjkinfo.net/
+not ajax website: 56512 http://www.sinoma-jld.cn/Newslist.aspx?mid=7
+ajax website: 56516 http://www.zwhzedu.com/news/class/
+ajax website: 56517 http://www.zwhzedu.com/dfs/class/
+ajax website: 56519 http://www.zwhzedu.com/adsfafa/class/
+ajax website: 56520 http://www.zwhzedu.com/page/gngx/index.php
+ajax website: 56521 http://www.zwhzedu.com/dfaafd/class/
+ajax website: 56522 http://www.zwhzedu.com/sdfsafd/class/
+ajax website: 56523 http://www.zwhzedu.com/dsfdaf/class/
+ajax website: 56524 http://www.zwhzedu.com/dsfadsaf/class/
+ajax website: 56525 http://www.zwhzedu.com/afddsfaf/class/
+ajax website: 56526 http://www.zwhzedu.com/dsfdsfa/class/
+ajax website: 56527 http://www.zwhzedu.com/dsfsaf/class/
+ajax website: 56528 http://www.zwhzedu.com/lubj/class/
+ajax website: 56529 http://www.zwhzedu.com/lxyj/class/
+not ajax website: 56530 http://www.zwhzedu.com/zflx/class/
+ajax website: 56531 http://www.zwhzedu.com/gblx/class/
+ajax website: 56533 http://www.zwhzedu.com/yzft/class/
+ajax website: 56534 http://www.zwhzedu.com/jylt/class/
+ajax website: 56535 http://www.zwhzedu.com/hgcy/class/
+ajax website: 56536 http://www.zwhzedu.com/gwsh/class/
+ajax website: 56537 http://www.zwhzedu.com/gatyx/class/
+not ajax website: 56556 http://www.crc.mofcom.gov.cn/topic/topic.shtml
+ajax website: 56619 http://www.pyr6.com/portal.php?mod=list&catid=33
+not ajax website: 56634 http://www.jlspr.com/jwmsxf/index.shtml
+not ajax website: 56675 http://www.ln.xinhuanet.com/newscenter/jkpd.htm
+not ajax website: 56676 http://www.ln.xinhuanet.com/newscenter/fcpd.htm
+not ajax website: 56677 http://www.ln.xinhuanet.com/newscenter/lnyw.htm
+not ajax website: 56678 http://www.ln.xinhuanet.com/newscenter/ztzl.htm
+not ajax website: 56682 http://www.ln.xinhuanet.com/newscenter/jj.htm
+not ajax website: 56683 http://www.ln.xinhuanet.com/newscenter/sspd.htm
+not ajax website: 56684 http://www.ln.xinhuanet.com/newscenter/lypd.htm
+not ajax website: 56688 http://www.ln.xinhuanet.com/newscenter/sp.htm
+not ajax website: 56747 http://www.yldt.com/Person/default.aspx
+not ajax website: 56748 http://www.yldt.com/News/BaiduNews.aspx
+not ajax website: 56753 http://pic.hcwang.cn/
+not ajax website: 56788 http://www.nnnews.net/./visualstudio/hangpaitp/201407/t20140707_1269535.html
+not ajax website: 56752 http://shenghuo.hcwang.cn/shxx.asp?idd=82&typea=精品线路景点
+not ajax website: 56842 http://www.gxzf.gov.cn/ggxx/gxshxxfw/s/bgjd/
+not ajax website: 56843 http://www.gxzf.gov.cn/ggxx/gxshxxfw/s/tsmc/
+not ajax website: 56846 http://www.gxzf.gov.cn/ggxx/gxshxxfw/g/gxtc/
+not ajax website: 56852 http://telecom.yinsha.com/114/20100412/tplj.html
+not ajax website: 56858 http://telecom.yinsha.com/114/dxcm/20101231/index.html
+not ajax website: 56867 http://zj.yinsha.com/lifenews/dy.shtml
+not ajax website: 56877 http://italk.yinsha.com/god/dx2013/20130613/index.html
+not ajax website: 56881 http://italk.yinsha.com/telecom/114/gjdx/index.html
+ajax website: 56888 http://italk.yinsha.com/telecom/health/index.htm
+not ajax website: 56855 http://diary.yinsha.com/
+not ajax website: 56889 http://italk.yinsha.com/telecom/haobai/czt.html
+not ajax website: 56950 http://www.nntv.cn/host/
+not ajax website: 56955 http://www.nntv.cn/tv/
+ajax website: 56995 http://bbs.gxbs.net/thread-htm-fid-185.html
+ajax website: 57002 http://bbs.gxbs.net/thread-htm-fid-62.html
+ajax website: 57005 http://bbs.gxbs.net/thread-htm-fid-12.html
+ajax website: 57007 http://bbs.gxbs.net/thread-htm-fid-203.html
+ajax website: 57022 http://fdc.gxbs.net/thread-htm-fid-332.html
+ajax website: 57042 http://baby.beihai365.com/
+not ajax website: 57070 http://www.beihai365.com/thread.php?fid=48
+not ajax website: 57091 http://www.yizhou.ccoo.cn/post/shenghuo/lvyou/
+not ajax website: 57096 http://www.yizhou.ccoo.cn/login/recover.asp
+not ajax website: 57105 http://www.yizhou.ccoo.cn/reg/?siteid=1197
+not ajax website: 57124 http://www.yizhou.ccoo.cn/post/fangwu/zj/
+not ajax website: 57131 http://www.china.ccoo.cn/
+not ajax website: 57145 http://www.yizhou.ccoo.cn/post/fabu/
+ajax website: 57157 http://www.yizhou.ccoo.cn/forum/board-126539-1-1.html
+not ajax website: 57166 http://www.gz.xinhuanet.com/zfpd/2004-01/19/content_1525829.htm
+not ajax website: 57167 http://www.gz.xinhuanet.com/zfpd/2004-01/19/content_1525827.htm
+not ajax website: 57168 http://www.gz.xinhuanet.com/zfpd/2004-01/19/content_1525832.htm
+not ajax website: 57169 http://www.gz.xinhuanet.com/zfpd/2004-01/19/content_1525826.htm
+not ajax website: 57175 http://tv.gxtv.cn/tv-7.html
+ajax website: 57187 http://www.wuzhou.gov.cn/approve/navigate/ShowPageForm.execute?catalogId=657
+ajax website: 57191 http://www.wuzhou.gov.cn/channel/001001020
+ajax website: 57192 http://www.wuzhou.gov.cn/channel/001001001008
+ajax website: 57198 http://www.wuzhou.gov.cn/approve/navigate/ShowPageForm.execute?catalogId=629
+ajax website: 57199 http://www.wuzhou.gov.cn/channel/001001001009
+ajax website: 57200 http://www.wuzhou.gov.cn/approve/navigate/ShowPageForm.execute?catalogId=613
+ajax website: 57201 http://www.wuzhou.gov.cn/channel/001001001010
+ajax website: 57210 http://www.wuzhou.gov.cn/approve/navigate/ShowPageForm.execute?catalogId=676
+ajax website: 57229 http://www.qxcs365.com/plus/search.php?kwtype=0&searchtype=titlekeyword&keyword=%C7%EB%CA%E4%C8%EB%CB%D1%CB%F7%C4%DA%C8%DD&x=9&y=10
+not ajax website: 57239 http://zt.gxtv.cn/2013syds/
+not ajax website: 57241 http://art.gxtv.cn/
+ajax website: 57251 http://club.jjjaaa.com/12002090000/5/0-0-0-1.html
+ajax website: 57253 http://club.jjjaaa.com/12002090000/4/0-0-0-1.html
+not ajax website: 57258 http://club.jjjaaa.com/space/313427.html
+ajax website: 57261 http://club.jjjaaa.com/12002090000/8/0-0-0-1.html
+ajax website: 57262 http://club.jjjaaa.com/12002090000/3/0-0-0-1.html
+ajax website: 57263 http://club.jjjaaa.com/12002090000/6/0-0-0-1.html
+not ajax website: 57266 http://www.jjjaaa.com/info/i_classinfo.asp?coding=12002090000&bcid=20
+ajax website: 57267 http://club.jjjaaa.com/12002090000/2/0-0-0-1.html
+not ajax website: 57268 http://club.jjjaaa.com/map/sousuo-0773qz-12002090000.html
+ajax website: 57319 http://bbs.shanglin.net/forum-46-1.html
+ajax website: 57322 http://bbs.shanglin.net/forum-132-1.html
+ajax website: 57326 http://www.shanglin.net/space-username-%25B1%25A6%25B6%25F9.html
+ajax website: 57327 http://bbs.shanglin.net/forum-139-1.html
+ajax website: 57329 http://www.shanglin.net/space-username-%25C0%25B6%25C9%25AB%25B5%25F7.html
+ajax website: 57330 http://bbs.shanglin.net/forum-66-1.html
+ajax website: 57331 http://bbs.shanglin.net/forum-24-1.html
+ajax website: 57332 http://bbs.shanglin.net/forum-41-1.html
+ajax website: 57334 http://www.shanglin.net/space-username-%25B8%25D0%25B6%25F7%25CE%25E1%25B0%25AE.html
+ajax website: 57335 http://bbs.shanglin.net/forum-128-1.html
+ajax website: 57337 http://bbs.shanglin.net/forum-136-1.html
+ajax website: 57338 http://bbs.shanglin.net/forum-138-1.html
+not ajax website: 57402 http://v.inhe.net
+not ajax website: 57415 http://fangtan.inhe.net/
+not ajax website: 57418 http://v.inhe.net/
+ajax website: 57439 http://www.hehechengde.cn//site1/cdrb/paperindex.htm
+ajax website: 57481 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=84
+ajax website: 57482 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=85
+ajax website: 57483 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=86
+ajax website: 57484 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=77
+ajax website: 57485 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=53
+ajax website: 57486 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=65

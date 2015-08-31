@@ -1,0 +1,87 @@
+ajax website: 57487 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=46
+not ajax website: 56928 http://www.yzdzw.gov.cn/html/zuzhijigou/zhengfubumen/lvyouju/
+not ajax website: 53717 http://www.mhi.com.cn/news/tab2/2014/index.html
+not ajax website: 56915 http://www.yzdzw.gov.cn/html/zuzhijigou/zhengfubumen/fazhiban/
+ajax website: 57489 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=48
+ajax website: 57488 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=47
+ajax website: 57491 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=216
+ajax website: 57490 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=36
+ajax website: 57492 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=40
+ajax website: 57494 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=376
+ajax website: 57493 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=71
+ajax website: 57496 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=59
+ajax website: 57495 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=42
+ajax website: 57497 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=242
+ajax website: 57499 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=251
+ajax website: 57498 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=228
+ajax website: 57501 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=43
+ajax website: 57500 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=218
+ajax website: 57504 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=233
+ajax website: 57503 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=79
+ajax website: 57506 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=75
+ajax website: 57505 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=377
+ajax website: 57507 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=378
+ajax website: 57509 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=239
+ajax website: 57508 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=238
+ajax website: 57511 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=241
+ajax website: 57510 http://www.xtgjd.com/forum.php?mod=forumdisplay&amp;fid=240
+not ajax website: 57547 http://advertise.hdt.net.cn/hotel/
+not ajax website: 57539 http://bbs.hdt.net.cn
+not ajax website: 57548 http://advertise.hdt.net.cn/meishi/
+ajax website: 57573 http://www.nx.cn/forum-270-1.html
+ajax website: 57571 http://www.nx.cn/forum-585-1.html
+ajax website: 57664 http://www.cfsn.cn/locality/tianjin/
+ajax website: 57663 http://www.chinadaily.com.cn/dfpd/node_1062678.htm
+ajax website: 57666 http://www.cfsn.cn/locality/shanxi/
+ajax website: 57665 http://www.cfsn.cn/locality/hebei/
+ajax website: 57668 http://www.cfsn.cn/locality/liaoning/
+ajax website: 57667 http://www.cfsn.cn/locality/neimenggu/
+ajax website: 57670 http://www.cfsn.cn/locality/heilongjiang/
+ajax website: 57669 http://www.cfsn.cn/locality/jilin/
+ajax website: 57672 http://www.cfsn.cn/locality/shandong/
+ajax website: 57671 http://www.cfsn.cn/locality/henan/
+ajax website: 57674 http://www.cfsn.cn/locality/zhejiang/
+ajax website: 57673 http://www.cfsn.cn/locality/anhui/
+ajax website: 57676 http://www.cfsn.cn/locality/jiangsu/
+ajax website: 57677 http://www.cfsn.cn/locality/jiangxi/
+ajax website: 57680 http://www.cfsn.cn/locality/hainan/
+ajax website: 57681 http://www.cfsn.cn/locality/shanghai/
+ajax website: 57682 http://www.cfsn.cn/locality/shenzhen/
+ajax website: 57683 http://www.cfsn.cn/locality/chongqing/
+ajax website: 57684 http://www.cfsn.cn/locality/sichuan/
+ajax website: 57685 http://www.cfsn.cn/locality/hubei/
+ajax website: 57686 http://www.cfsn.cn/locality/hunan/
+ajax website: 57687 http://www.cfsn.cn/locality/yunnan/
+ajax website: 57688 http://www.cfsn.cn/locality/guizhou/
+ajax website: 57689 http://www.cfsn.cn/locality/xizang/
+ajax website: 57690 http://www.cfsn.cn/locality/shaanxi/
+ajax website: 57691 http://www.cfsn.cn/locality/gansu/
+ajax website: 57692 http://www.cfsn.cn/locality/xinjiang/
+ajax website: 57693 http://www.cfsn.cn/locality/qinghai/
+ajax website: 57694 http://www.cfsn.cn/locality/ningxia/
+ajax website: 57695 http://www.cfsn.cn/locality/node_4645.htm
+ajax website: 57696 http://www.cfsn.cn/locality/dalian/
+ajax website: 57697 http://www.cfsn.cn/locality/qingdao/
+ajax website: 57698 http://www.cfsn.cn/locality/xiamen/
+ajax website: 57759 http://bbs.gz.house.163.com/
+not ajax website: 57770 http://www.winshang.com/brandunion/index.html
+not ajax website: 57789 http://war.163.com/special/war_yuetu/#hot
+ajax website: 57894 http://www.bushinet.com/bbs/index.php
+not ajax website: 57903 http://www.bushinet.com/
+not ajax website: 57927 http://fgs.ciming.com/sz/tijianfuwu/
+not ajax website: 57947 http://fgs.ciming.com/gz/tijianfuwu/
+not ajax website: 58055 http://www.0937.com/forum/board-25556-1-1.html
+not ajax website: 58063 http://www.0937.com/forum/board-10649-1-1.html
+not ajax website: 58064 http://www.0937.com/forum/board-129101-1-1.html
+not ajax website: 58065 http://www.0937.com/forum/board-21561-1-1.html
+not ajax website: 58068 http://www.0937.com/forum/board-10644-1-1.html
+not ajax website: 58074 http://www.0937.com/forum/board-20821-1-1.html
+not ajax website: 58080 http://www.0937.com/forum/board-22772-1-1.html
+not ajax website: 58081 http://www.0937.com/forum/board-22775-1-1.html
+not ajax website: 58082 http://www.0937.com/forum/board-22773-1-1.html
+not ajax website: 58099 http://www.0937.com/forum/board-75422-1-1.html
+not ajax website: 58100 http://www.0937.com/forum/board-30469-1-1.html
+not ajax website: 58102 http://www.0937.com/forum/board-10661-1-1.html
+not ajax website: 58106 http://www.0937.com/forum/board-28039-1-1.html
+not ajax website: 58136 http://www.chengdechina.net/forum-250-1.html
+ajax website: 58139 http://www.lfluntan.com/forum-130-1.html

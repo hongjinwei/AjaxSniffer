@@ -1,0 +1,80 @@
+ajax website: 44389 http://sprbszb.chinajilin.com.cn/paperindex.htm 中国吉林网
+not ajax website: 64576 http://www.52fenjin.com/forum-340-1.html 河海大学论坛
+not ajax website: 105475 http://www.gsrdw.gov.cn/html/fbh/ 甘肃人大网
+not ajax website: 92936 http://www.faku.gov.cn/FakuSystem/publish/html/1166596223147/content/2013/1367978682791.html 沈阳法库网
+not ajax website: 81618 http://pic.xiancity.cn/ 白鸽网
+not ajax website: 64360 http://bbs.dianjian.net/forum-59-1.html 电建论坛
+ajax website: 72747 http://www.737168.com/Article/class.asp?id=54 益阳一网
+not ajax website: 98176 http://bbs.haoxiangdp.com/ 百汇家电网
+ajax website: 85105 http://www.fjsq.gov.cn/BigClass.asp?BigClassName=福建概览 省情资料库
+not ajax website: 67685 http://www.0515yc.cn/jryc/ 盐城网
+not ajax website: 99146 http://www.enet.com.cn/special/ 硅谷动力
+not ajax website: 97608 http://www.showchina.org/zt/fl/02/ 看中国
+not ajax website: 85128 http://www.fa-today.com/faphoto/ShowPhoto.asp?PhotoID=370 福安新闻网
+not ajax website: 70051 http://www.qixian.gov.cn/a_qxdt/index.asp 祁县县委县政府网
+ajax website: 85251 http://www.ihome99.com/support 福州家园网
+not ajax website: 84749 http://www.zohi.tv/folder809/index.html 福州明珠网
+not ajax website: 84936 http://www.fuzhou.gov.cn/lyb/ 福州市政府
+not ajax website: 87506 http://www.rqsh.com.cn/ldgh.asp 福州泉州商会
+not ajax website: 84701 http://www.fzccoo.com/forum/thread-6691095-1-1.html 福州论坛
+not ajax website: 84619 http://www.66163.com/tianqi/ 福建之窗
+not ajax website: 85860 http://www.fjgb.com/ 福建新闻广播网
+not ajax website: 66992 http://www.zgcqxs.net/default/xiangzheng/qy-622.shtml 秀山网
+not ajax website: 92871 http://www.sciencep.com/qiyezhichuang/qyjj.html 科学出版社
+not ajax website: 100235 http://kyxk.net/ 科苑星空BBS站
+not ajax website: 72054 http://hr.chinahvacr.com/Gaojirencai.aspx 空调制冷网
+not ajax website: 90328 http://buy.yicai.com/read 第一财经
+not ajax website: 94639 http://www.kxsdzzs.com/?mod=m_news&typeid=23 管理学家杂志社
+ajax website: 68835 http://blog.voc.com.cn/circlelist.php 精英博客
+not ajax website: 81203 http://www.e0575.com/u/chetie/ 绍兴e网
+not ajax website: 69243 http://www.shaoxing.com.cn/news/node_164.htm 绍兴网
+ajax website: 76427 http://www.sxccb.com/cn/cygj/whlv/index.html 绍兴银行
+not ajax website: 96292 http://mobile.jjlw.cn/ 经济瞭望网
+not ajax website: 79982 http://www.luyuan.gov.cn/lycms/site/kjjcms/list/nP_11_67_1_6List1.html 绿园区科技局网
+ajax website: 83093 http://quotes.money.163.com/#query=leadIndustry 网易
+not ajax website: 65007 http://bbs.lady.163.com/list/weicheng.html#index 网易论坛
+ajax website: 90978 http://quotes.money.163.com/#US 网易财经
+not ajax website: 98575 http://cloudgo.cnw.com.cn/List/cloud-planning.shtml 网界
+ajax website: 75744 http://www.hybbs.net/forum-20-1.html 羌溪花园论坛
+not ajax website: 99317 http://mx.liwai.com/ 美讯在线
+ajax website: 95299 http://www.unisk.cn/ 联合时空网
+not ajax website: 82531 http://data.linkshop.com.cn/ 联商网
+not ajax website: 97550 http://www.chinagb.net/people/zhuanjia/ 能源世界
+not ajax website: 96941 http://www.inengyuan.com/hy/ 能源经济网
+ajax website: 90599 http://roll.house.qq.com/ 腾讯财经
+ajax website: 81520 http://zhoushan.19lou.com/support 舟山19楼论坛
+ajax website: 82920 http://bbs.zhoushan.cn/forum-132-1.html 舟山论坛
+not ajax website: 76837 http://www.huamanlou.com/search.php?mod=forum&srchtxt=%B2%DD%B8%F9%BC%C7%D5%DF&formhash=08ad9bdb&searchsubmit=true&source=hotsearch 花满楼
+ajax website: 67147 http://bbs.zgcqxs.net/forum.php?mod=forumdisplay&fid=18 花灯论坛
+ajax website: 96838 http://www.szkp.org.cn/ 苏州科普之窗
+not ajax website: 68044 http://www.szcw.cn/buy/index.html 苏州车网
+ajax website: 84245 http://www.ptxw.com/xwpd/ylxw/ 莆田新闻网
+ajax website: 69097 http://www.zjstv.com/dianbo/ 蓝天下
+not ajax website: 86079 http://blog.tibetcul.com/list.asp?classid=1 藏人文化网
+ajax website: 64402 http://weibo.com/365lycf 蠡园茶坊论坛
+ajax website: 62643 http://bbs.45win.com/forum-64-1.html 行摄石柱论坛
+ajax website: 81126 http://quzhou.19lou.com/support 衢州19楼
+ajax website: 83978 http://www.qzdj.gov.cn/ 衢州党建网
+ajax website: 81174 http://qz.zjzwfw.gov.cn/index.html 衢州市民政局信息网
+not ajax website: 71227 http://www.xiangyuan.gov.cn/xwzx/spxw/ 襄垣县人民政府网
+not ajax website: 79492 http://bbs.xjtu.edu.cn/ 西安交大兵马俑BBS排行榜
+not ajax website: 70412 http://www.mama.cn/jump.html 西安妈妈网
+ajax website: 82144 http://epaper.xiancn.com/xarb/paperindex.htm 西安日报
+ajax website: 82095 http://epaper.xiancn.com/xawb/paperindex.htm 西安晚报
+not ajax website: 81944 http://bbs.xhume.com/forum-156-1.html 西户社区
+ajax website: 76226 http://www.860527.com/forum.php?mod=forumdisplay&fid=528&filter=typeid&typeid=1267 西楚社区
+not ajax website: 86097 http://xizang.ciccphoto.com/ 西藏在线
+not ajax website: 62538 http://www.cbg.cn/live/?pid=12 视界网
+ajax website: 94753 http://trs.jfdaily.com/zbsh_1/index.htm 解放网
+ajax website: 97889 http://n7120278.cn.gongchang.com/ 言行网
+not ajax website: 98619 http://www.ccwresearch.com.cn/survey.htm 计世资讯
+not ajax website: 96472 http://quote.stockstar.com/Comment/ 证券之星
+not ajax website: 89856 http://data.stcn.com/statics/StocksOneminute/index.html 证券时报网
+not ajax website: 103814 http://363500.haotui.com/ 诏安新闻网
+not ajax website: 78588 http://news.zjrb.cn/news/pd/jyxw/index.shtml 诸暨新闻网
+not ajax website: 92771 http://news.google.cn/ 谷歌资讯
+not ajax website: 96419 http://www.greentv.com.cn/bbsss/Default.htm 谷润网
+ajax website: 97686 http://roll.caijing.com.cn/ 财经网
+ajax website: 100227 http://www.hangye5.com/site/60030.html 财讯外汇网
+not ajax website: 99282 http://www.commercial.hsbc.com.hk/1/2/commercial_cn/customer-service/banking-channels/hsbcnet 财资网
+ajax website: 99063 http://www.daichuqu.com/Writer/w_list 贷出去

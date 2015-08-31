@@ -1,0 +1,89 @@
+ajax website: 58417 http://hd.stheadline.com/fortune/fortune_subindex.asp?catid=733
+ajax website: 59635 http://BBS.gsftw.com/forum.php?mod=forumdisplay&fid=149
+not ajax website: 59130 http://www.sasacgs.gov.cn/list.jsp?classid=11
+ajax website: 58423 http://hd.stheadline.com/racing/racing_subindex.asp?catid=797
+ajax website: 59639 http://BBS.gsftw.com/forum.php?mod=forumdisplay&fid=151
+ajax website: 59641 http://BBS.gsftw.com/forum.php?mod=forumdisplay&fid=152
+ajax website: 59645 http://BBS.gsftw.com/forum.php?mod=forumdisplay&fid=78
+ajax website: 59647 http://BBS.gsftw.com/forum.php?mod=forumdisplay&fid=79
+ajax website: 59649 http://BBS.gsftw.com/forum.php?mod=forumdisplay&fid=80
+ajax website: 59651 http://BBS.gsftw.com/forum.php?mod=forumdisplay&fid=81
+ajax website: 59653 http://BBS.gsftw.com/forum.php?mod=forumdisplay&fid=82
+ajax website: 59657 http://BBS.gsftw.com/forum.php?mod=forumdisplay&fid=86
+ajax website: 59637 http://BBS.gsftw.com/forum.php?mod=forumdisplay&fid=150
+ajax website: 59661 http://BBS.gsftw.com/forum.php?mod=forumdisplay&fid=166
+ajax website: 59659 http://BBS.gsftw.com/forum.php?mod=forumdisplay&fid=87
+ajax website: 59665 http://BBS.gsftw.com/forum.php?mod=forumdisplay&fid=98
+ajax website: 59667 http://BBS.gsftw.com/forum.php?mod=forumdisplay&fid=84
+ajax website: 59669 http://BBS.gsftw.com/forum.php?mod=forumdisplay&fid=85
+ajax website: 59671 http://BBS.gsftw.com/forum.php?mod=forumdisplay&fid=88
+ajax website: 59643 http://BBS.gsftw.com/forum.php?mod=forumdisplay&fid=148
+ajax website: 59673 http://BBS.gsftw.com/forum.php?mod=forumdisplay&fid=89
+ajax website: 59675 http://BBS.gsftw.com/forum.php?mod=forumdisplay&fid=90
+ajax website: 59677 http://BBS.gsftw.com/forum.php?mod=forumdisplay&fid=91
+ajax website: 59679 http://BBS.gsftw.com/forum.php?mod=forumdisplay&fid=165
+ajax website: 59681 http://BBS.gsftw.com/forum.php?mod=forumdisplay&fid=70
+not ajax website: 60063 http://teda.enorth.com.cn/
+not ajax website: 60080 http://www.linhe.gov.cn/main/guest/guest_list.php
+not ajax website: 60122 http://bbs.enorth.com.cn/enorthapp-paike.html
+not ajax website: 60161 http://www.boilerinfo.net/list.php?catid=58
+ajax website: 59655 http://BBS.gsftw.com/forum.php?mod=forumdisplay&fid=83
+not ajax website: 60167 http://www.boilerinfo.net/announce/
+not ajax website: 60170 http://www.boilerinfo.net/special/
+not ajax website: 60182 http://www.boilerinfo.net/
+ajax website: 60194 http://www.tj.xinhuanet.com/jjdx.htm
+ajax website: 60217 http://bbs.baoketu.com/forum-5-1.html
+ajax website: 60226 http://www.tj.xinhuanet.com/nknews/index.htm
+ajax website: 60227 http://bbs.baoketu.com/forum-63-1.html
+ajax website: 60312 http://epaper.tianjinwe.com/mrxb
+not ajax website: 60321 http://www.tianjinwe.com/hotn/rdzt/
+ajax website: 60322 http://epaper.tianjinwe.com/cskb
+ajax website: 59663 http://BBS.gsftw.com/forum.php?mod=forumdisplay&fid=97
+not ajax website: 60323 http://bbs.tianjinwe.com
+ajax website: 60325 http://epaper.tianjinwe.com/tjrb
+ajax website: 60327 http://www.teda.gov.cn/html/teda_index2011/portal/index/index.htm
+not ajax website: 60351 http://bbs.e47.cn/forum_todoy_top.asp?action=0
+not ajax website: 60346 http://bbs.e47.cn/forum_search.asp
+not ajax website: 60386 http://auto.jwb.com.cn/index.php?caid=51&addno=1
+not ajax website: 60361 http://www.e47.cn/map/
+not ajax website: 60406 http://bbs.jwb.com.cn/
+not ajax website: 60489 http://211.81.22.94/qikantuijian/bensheshukan/201005/718.html
+ajax website: 60494 http://www.cnbeta.com/commentrss.php
+ajax website: 60401 http://tech.jwb.com.cn/col/col15356/index.html
+ajax website: 60495 http://www.cnbeta.com/backend.php
+ajax website: 60558 http://bbs.kutj.com/home.php
+ajax website: 60559 http://bbs.kutj.com/forum-361-1.html
+ajax website: 60560 http://bbs.kutj.com/forum-365-1.html
+ajax website: 60561 http://bbs.kutj.com/forum-56-1.html
+ajax website: 60562 http://bbs.kutj.com/forum-375-1.html
+ajax website: 60563 http://bbs.kutj.com/forum-3-1.html
+ajax website: 60564 http://bbs.kutj.com/space-uid-329586.html
+ajax website: 60565 http://bbs.kutj.com/forum-18-1.html
+ajax website: 60567 http://bbs.kutj.com/forum-382-1.html
+not ajax website: 60568 http://bbs.kutj.com/search.php?mod=forum&srchtxt=%CC%EC%BD%F2%B5%E7%D3%B0%D4%BA&formhash=491643c8&searchsubmit=true&source=hotsearch
+ajax website: 60569 http://bbs.kutj.com/forum-308-1.html
+ajax website: 60570 http://bbs.kutj.com/space-uid-41738.html
+not ajax website: 60571 http://qiche.kutj.com
+ajax website: 60574 http://bbs.kutj.com/forum-378-1.html
+not ajax website: 60587 http://www.tjyme.com/html/mtbd/
+ajax website: 60623 http://action.fund123.cn/fundgame/
+ajax website: 60631 http://shipan.fund123.cn?ad=1
+ajax website: 60639 http://yq.ccaonline.cn
+ajax website: 60659 http://news.ccaonline.cn
+not ajax website: 60739 http://www.cnfdn.com/about/1197_3835.html
+not ajax website: 60784 http://www.zaoqiang.ccoo.cn/forum/board-6586-1-1.html
+not ajax website: 60804 http://www.zaoqiang.ccoo.cn/forum/board-6263-1-1.html
+not ajax website: 60815 http://bbs.zhijia.com/space-username-%25E5%25A6%2582%25E6%259E%259C.html
+not ajax website: 60917 http://www.he.xinhuanet.com/zfwq/tangshan/
+not ajax website: 60921 http://www.he.xinhuanet.com/zfwq/pingshan/
+not ajax website: 60950 http://www.xinhuanet.com/shouji/chupingban.htm
+not ajax website: 61033 http://www.hdbbs.com/plugin.php?id=eis_skin:eis
+not ajax website: 61034 http://www.hdbbs.com/search.php?mod=forum&srchtxt=%D0%C2%C8%CB%B1%A8%B5%C0%CC%FB&formhash=403818e9&searchsubmit=true&source=hotsearch
+not ajax website: 61035 http://www.hdbbs.com/search.php?mod=forum&srchtxt=%D0%C2%C8%CB%B1%A8%B5%C0&formhash=403818e9&searchsubmit=true&source=hotsearch
+not ajax website: 61036 http://www.hdbbs.com/search.php?mod=forum&srchtxt=%BA%D3%B6%AB%B4%E5&formhash=403818e9&searchsubmit=true&source=hotsearch
+not ajax website: 61077 http://www.ermudi.com/home.php?mod=space&username=%BC%D1%D0%C5%B5%E7%C6%F7
+not ajax website: 61102 http://blog.yzdsb.com.cn/
+not ajax website: 61103 http://www.hdbbs.com/search.php?mod=forum&srchtxt=%BA%D3%B6%AB%B4%E5&formhash=c752e342&searchsubmit=true&source=hotsearch
+not ajax website: 61104 http://www.hdbbs.com/search.php?mod=forum&srchtxt=%D0%C2%C8%CB%B1%A8%B5%C0&formhash=c752e342&searchsubmit=true&source=hotsearch
+not ajax website: 61105 http://www.hdbbs.com/search.php?mod=forum&srchtxt=%D0%C2%C8%CB%B1%A8%B5%C0%CC%FB&formhash=c752e342&searchsubmit=true&source=hotsearch
+ajax website: 61225 http://www.shufe.org/bbs/b/b.asp?B=3

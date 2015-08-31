@@ -1,0 +1,19 @@
+ajax website: 79686 http://www.gxhzradio.com/ 贺州广播网
+not ajax website: 92863 http://www.114huoche.com/zhengfu/ShenYang-SuJiaTunQu 苏家屯区政府
+not ajax website: 84657 http://www.fzccoo.com//cuxiao/ 福州在线
+not ajax website: 92981 http://www.lnsjjjc.gov.cn/xxgk/index.shtml 辽宁纪检监察网
+ajax website: 61794 http://www.zgswcn.com/trade/ 辽宁商网
+ajax website: 75612 http://www.0359tv.com/ 运城视听网
+not ajax website: 72758 http://lianyungang0518.lianyungang.baixing.com/ershou/ 连云港生活网
+ajax website: 86179 http://e.weibo.com/iyouliancheng 连城新闻网
+not ajax website: 98079 http://www.ccidcom.com/html/pinglun/index.html 通信产业网
+not ajax website: 72654 http://www.tzlz.gov.cn/list.asp?classid=170 通州廉政网
+ajax website: 79850 http://www.hdcb.cn/hdyh/more.html?tag=cjkx 邯郸银行
+ajax website: 86315 http://www.swxww.cn/ 邵武新闻网
+not ajax website: 103284 http://0739i.com.cn/forum-37-1.html 邵阳网
+ajax website: 71792 http://www.cqu.edu.cn/ 重庆大学网
+not ajax website: 69919 http://news.takungpao.com/mainland/focus/ 重庆大公网
+ajax website: 70867 http://bbs.house.sina.com.cn/tableforum/App/index.php?bbsid=250 重庆房产网
+not ajax website: 62709 http://www.bendibao.com/culture.htm 重庆本地宝网
+not ajax website: 70798 http://news.online.cq.cn/angledepth/list1.html 重庆热线
+not ajax website: 62632 http://www.cqie.cn/contents/1033/8582.html 重庆科创职业学院网

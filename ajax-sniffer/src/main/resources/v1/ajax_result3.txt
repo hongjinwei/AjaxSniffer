@@ -1,0 +1,125 @@
+not ajax website: 53706 http://www.cjs.com.cn/SHTML/514/list/list1.html
+ajax website: 46156 http://www.js.xinhuanet.com/xwzx/jy/jiaoyudtxw.htm
+ajax website: 44355 http://faxian.tzzx.net/threads?tag=%E7%BE%8A%E8%82%89%E6%B1%A4
+not ajax website: 44177 http://www.jn001.com/travel/2014-05/12/content_3115.htm
+not ajax website: 44295 http://special.wuhunews.cn/xmtpc/
+not ajax website: 53715 http://www.mhi.com.cn/company/resource/magazine/
+not ajax website: 53711 http://www.cjs.com.cn/SHTML/427/list/list1.html
+not ajax website: 53707 http://www.cjs.com.cn/SHTML/410/list/list1.html
+not ajax website: 53718 http://www.mhi.com.cn/company/resource/video/
+not ajax website: 53716 http://www.mhi.com.cn/company/resource/8show/
+not ajax website: 53961 http://v.qq.com/p/vshou/vshou_opt_tv.html
+not ajax website: 53960 http://v.qq.com/p/vshou/vshou_opt_fun.html
+not ajax website: 53959 http://v.qq.com/p/vshou/vshou_opt_baby.html
+not ajax website: 53963 http://v.qq.com/p/vshou/vshou_opt_travel.html
+not ajax website: 53962 http://v.qq.com/p/vshou/vshou_opt_dv.html
+not ajax website: 53971 http://v.qq.com/p/vshou/vshou_opt_brand.html
+not ajax website: 53970 http://v.qq.com/p/vshou/vshou_opt_original.html
+not ajax website: 53975 http://v.qq.com/p/vshou/vshou_opt_var.html
+not ajax website: 53974 http://v.qq.com/p/vshou/vshou_opt_life.html
+not ajax website: 53981 http://v.qq.com/p/vshou/vshou_opt_doc.html
+not ajax website: 53977 http://v.qq.com/p/vshou/vshou_opt_paike.html
+not ajax website: 53986 http://v.qq.com/p/vshou/vshou_opt_hlw.html
+not ajax website: 53983 http://v.qq.com/p/vshou/vshou_opt_kr.html
+ajax website: 53988 http://news.163.com/latest/
+ajax website: 54171 http://proces-verbal.jr18.com/
+not ajax website: 54170 http://blog.jr18.com/
+not ajax website: 54174 http://jr18.com/s.html
+not ajax website: 54183 http://jr18.com/page/lxwm.html
+ajax website: 54203 http://www.chinaforklift.com/member.htm
+ajax website: 54202 http://map.chinaforklift.com/
+ajax website: 54232 http://www.moa.gov.cn/fwllm/qgxxlb/
+ajax website: 54204 http://www.chinaforklift.com/sales/guanggao.html
+not ajax website: 54250 http://www.gdagri.gov.cn/xxzx/syjs/zzyjs/
+not ajax website: 54278 http://liuyan.people.com.cn/forumdisplay.php?fid=464
+not ajax website: 54277 http://liuyan.people.com.cn/forumdisplay.php?fid=465
+not ajax website: 54280 http://liuyan.people.com.cn/forumdisplay.php?fid=462
+not ajax website: 54281 http://liuyan.people.com.cn/forumdisplay.php?fid=458
+not ajax website: 54285 http://liuyan.people.com.cn/forumdisplay.php?fid=455
+not ajax website: 54284 http://liuyan.people.com.cn/forumdisplay.php?fid=456
+not ajax website: 54288 http://liuyan.people.com.cn/forumdisplay.php?fid=454
+ajax website: 54369 http://www.jiuquan.gov.cn/
+not ajax website: 54371 http://www.jiuquan.gov.cn/BigClass.asp?typeid=14&BigClassid=47
+not ajax website: 54373 http://www.jiuquan.gov.cn/BigClass.asp?typeid=14&BigClassid=48
+not ajax website: 54375 http://www.jiuquan.gov.cn/BigClass.asp?typeid=14&BigClassid=75
+not ajax website: 54377 http://www.jiuquan.gov.cn/BigClass.asp?typeid=15&BigClassid=53
+not ajax website: 54379 http://www.jiuquan.gov.cn/BigClass.asp?typeid=15&BigClassid=54
+not ajax website: 54381 http://www.jiuquan.gov.cn/bigclass.asp?typeid=26&bigclassid=121
+not ajax website: 54383 http://www.jiuquan.gov.cn/type.asp?typeid=22
+ajax website: 54429 http://www.jc.gansu.gov.cn/col/col64/index.html
+ajax website: 54431 http://www.jc.gansu.gov.cn/col/col65/index.html
+not ajax website: 54433 http://gz.i.ihk.cn/assistant/
+not ajax website: 54510 http://www.dunhua.gov.cn/article.php?c=2686,2689
+ajax website: 54527 http://www.hhhtsz.com.cn/
+ajax website: 54528 http://www.hhhtsz.com.cn/bbx/1767713-1767713.html
+not ajax website: 54562 http://www.909radio.com/huodong/
+ajax website: 54569 http://epaper.xkb.com.cn/
+not ajax website: 54570 http://www.xkb.com.cn/kweb/iphone/index.html
+ajax website: 54580 http://www.xkb.com.cn/html/topicslist.html
+ajax website: 54572 http://t.xkb.com.cn/
+not ajax website: 54595 http://club.haiguinet.com/forum.php
+ajax website: 54616 http://weibo.com/bestvilla
+ajax website: 54644 http://tieba.baidu.com/f?kw=%E5%90%89%E6%9E%97%E5%A4%A7%E5%AD%A6&ie=utf-8
+ajax website: 54684 http://bbs.p5w.net/portal.php
+ajax website: 54688 http://bbs.p5w.net/forum-66-1.html
+not ajax website: 54753 http://www.hjyh.cn/
+ajax website: 54864 http://qidian.yzz.cn/
+not ajax website: 54805 http://www.cnfuer.cn/
+not ajax website: 54869 http://news.bt165.com/list-738-1.html
+not ajax website: 54871 http://news.bt165.com/list-739-1.html
+not ajax website: 54876 http://auto.bt165.com/
+not ajax website: 54878 http://money.bt165.com/
+ajax website: 54882 http://bt.ziyoufa.com/forum.php?mod=forumdisplay&fid=1855
+not ajax website: 54883 http://health.bt165.com/
+not ajax website: 55023 http://huaqiang.fang.com/youhui/
+not ajax website: 55045 http://news.feng.com/
+ajax website: 55052 http://g.feng.com/
+not ajax website: 55054 http://www.wper.com/
+not ajax website: 55062 http://www.wuhai.gov.cn/zwgk/zxzx/sqdt/
+not ajax website: 55116 http://bbs.xiadu.com/
+not ajax website: 55143 http://gd.sohu.com/s2008/hkzt/
+ajax website: 55153 http://weibo.com/szchaoshang
+not ajax website: 55165 http://www.ycwb.com/gg/2011shuzibao/
+ajax website: 55186 http://www.hb130.net/forum-5-1.html
+ajax website: 55194 http://www.hb130.net/forum-16-1.html
+not ajax website: 55204 http://www.sgxw.cn/dubao/
+not ajax website: 55219 http://dahuawang.com/gundong/pic.asp
+not ajax website: 55259 http://epaper.zsnews.cn/
+not ajax website: 55287 http://xjrb.xjrb.com/
+ajax website: 55298 http://qhd.yzdsb.com.cn
+not ajax website: 55304 http://bbs.sendsn.com/forum.php?mod=forumdisplay&fid=239
+not ajax website: 55305 http://bbs.sendsn.com/home.php?mod=space&username=%B5%F1%C1%FA
+not ajax website: 55306 http://bbs.sendsn.com/home.php?mod=space&username=%B2%DD%CB%E0
+not ajax website: 55307 http://bbs.sendsn.com/home.php?mod=space&username=%C6%FB%B3%B5%BD%CC%C1%B7
+not ajax website: 55308 http://bbs.sendsn.com/forum.php?mod=forumdisplay&fid=241
+not ajax website: 55309 http://bbs.sendsn.com/forum.php?mod=forumdisplay&fid=240
+not ajax website: 55310 http://bbs.sendsn.com/home.php?mod=space&username=%C3%F7%C3%C4%B5%C4%D1%F4%B9%E2
+not ajax website: 55311 http://bbs.sendsn.com/forum.php?mod=forumdisplay&fid=372
+not ajax website: 55312 http://bbs.sendsn.com/forum.php?mod=forumdisplay&fid=328
+not ajax website: 55313 http://bbs.sendsn.com/forum.php
+not ajax website: 55315 http://bbs.sendsn.com/home.php?mod=space&username=%E4%EC%CF%E6%BA%AE%D3%B0
+not ajax website: 55316 http://bbs.sendsn.com/forum.php?mod=forumdisplay&fid=339
+not ajax website: 55317 http://bbs.sendsn.com/home.php?mod=space&username=%BA%A3%C4%C9%B0%D9%B4%A8
+not ajax website: 55318 http://bbs.sendsn.com/forum.php?mod=forumdisplay&fid=371
+not ajax website: 55319 http://bbs.sendsn.com/./
+not ajax website: 55320 http://bbs.sendsn.com/forum.php?mod=forumdisplay&fid=343
+not ajax website: 55321 http://bbs.sendsn.com/forum.php?mod=forumdisplay&fid=277
+not ajax website: 55322 http://bbs.sendsn.com/home.php?mod=space&username=%B1%CC%C2%DD%B4%BA
+not ajax website: 55323 http://bbs.sendsn.com
+not ajax website: 55324 http://bbs.sendsn.com/forum.php?mod=forumdisplay&fid=408
+not ajax website: 55325 http://bbs.sendsn.com/home.php?mod=space&username=%D1%F4%B9%E2%D0%C4%CC%AC
+not ajax website: 55326 http://bbs.sendsn.com/home.php?mod=space&username=%BB%AA%C9%BD%CB%C9
+not ajax website: 55327 http://bbs.sendsn.com/home.php?mod=space&username=%B2%CA%CF%BC%C2%FA%CC%EC
+not ajax website: 55328 http://bbs.sendsn.com/home.php?mod=space&username=%D4%C2%CB%BC
+not ajax website: 55329 http://bbs.sendsn.com/forum.php?mod=forumdisplay&fid=338
+not ajax website: 55330 http://bbs.sendsn.com/forum.php?mod=forumdisplay&fid=365
+not ajax website: 55331 http://bbs.sendsn.com/forum.php?mod=forumdisplay&fid=364
+not ajax website: 55332 http://bbs.sendsn.com/home.php?mod=space&username=%CF%D0%C8%CB%B9%E2%D3%B0
+not ajax website: 55333 http://bbs.sendsn.com/
+not ajax website: 55378 http://dongfang.baixing.com/yiliao/
+not ajax website: 55389 http://www.baixing.com/?changeLocation=yes
+ajax website: 55398 http://www.bdren.com/plugin.php?id=eis_style:change
+not ajax website: 55412 http://www.sjzdaily.com.cn/back0701/wlgx.htm
+not ajax website: 55499 http://wa.bdall.com
+not ajax website: 55525 http://www.missupk.com/space.php?uid=193
+not ajax website: 55547 http://help.hebnews.cn/fwtk.html

@@ -1,0 +1,580 @@
+not ajax website: 1813 http://www.sdwsjd.gov.cn/LabelAction.do?dispatch=newsList&id=484848ac23eee6cf0123ef15a6900002&flag=6&uxid=484848ac23eee6cf0123ef19b2e10009
+not ajax website: 28998 http://esrb.enshi.cn/
+ajax website: 23683 http://tieba.baidu.com/f?kw=%E5%A4%A7%E5%AE%89%E5%8C%BA&ie=utf-8
+not ajax website: 43420 http://www.cngy.gov.cn/html/videolist.asp
+ajax website: 1398 http://www.zhicheng.com/html/sort/7/index.html
+not ajax website: 1393 http://www.xgrb.cn/bbs/thread-htm-fid-288.html
+not ajax website: 43507 http://www.sx.xinhuanet.com/czrb/jswm.htm
+not ajax website: 43505 http://www.sx.xinhuanet.com/czrb/dzlx.htm
+not ajax website: 43492 http://www.sx.xinhuanet.com/dfzx/zfwz/changzhi/ldlt.htm
+not ajax website: 43490 http://www.sx.xinhuanet.com/dfzx/zfwz/changzhi/jryw.htm
+not ajax website: 43489 http://www.sx.xinhuanet.com/czrb/
+not ajax website: 43642 http://weishi.pyxww.com/?/article/cat-4/index.html
+not ajax website: 43638 http://weishi.pyxww.com/?/article/id-7/
+not ajax website: 43552 http://editor.caacnews.com.cn/2013zl/zljtmh/main.asp
+not ajax website: 43836 http://yichun.dbw.cn/system/2010/06/22/052579503.shtml
+ajax website: 43756 http://www.lhrb.com.cn/member.php?mod=clearcookies
+ajax website: 43649 http://szb.dlxww.com
+not ajax website: 43647 http://www.pyxww.com/zspy/
+not ajax website: 43863 http://advertisement.dbw.cn/dbwmms/index.html
+ajax website: 43865 http://my.dbw.cn/
+ajax website: 43936 http://bbs.wjdaily.com/bbs/forum.php?mod=forumdisplay&fid=93
+ajax website: 43935 http://bbs.wjdaily.com/bbs/forum.php?mod=forumdisplay&fid=97
+not ajax website: 43847 http://newspaper.dbw.cn/
+not ajax website: 43923 http://www.sqrb.com.cn/news/node_4365.htm
+ajax website: 43978 http://bbs.wjdaily.com/bbs/forum.php?mod=forumdisplay&fid=96
+ajax website: 43975 http://bbs.wjdaily.com
+ajax website: 43956 http://bbs.wjdaily.com/bbs/forum.php?mod=forumdisplay&fid=165
+ajax website: 44058 http://www.ncnews.com.cn/cx/bmfw/2013-12/16/content_1047778.htm
+not ajax website: 44000 http://bbs.sgxw.cn/forum-106-1.html
+ajax website: 43995 http://news.sgxw.cn/photo/
+ajax website: 43981 http://bbs.wjdaily.com/bbs/forum.php?mod=forumdisplay&fid=98
+not ajax website: 44123 http://www.ecyrb.cn/zsyl/fc.asp
+not ajax website: 44122 http://www.ecyrb.cn/zsyl/xy.asp
+not ajax website: 44099 http://www.ncnews.com.cn/st/xwzhpl.htm
+ajax website: 44071 http://tv.ncnews.com.cn/
+ajax website: 44133 http://www.ecyrb.cn/zsyl/zs.asp
+ajax website: 44131 http://www.ecyrb.cn/zsyl/ly.asp
+ajax website: 44127 http://www.ecyrb.cn/zsyl/rw.asp
+ajax website: 44125 http://www.ecyrb.cn/zsyl/cj.asp
+ajax website: 44141 http://www.ecyrb.cn/zsyl/yiliao.asp
+ajax website: 44137 http://www.ecyrb.cn/zsyl/nx.asp
+not ajax website: 44158 http://www.dafengnews.com.cn/spbd/108116.shtml
+not ajax website: 44144 http://www.ecyrb.cn/zsyl/sx.asp
+not ajax website: 44220 http://www.jn001.com/culture/node_178.htm
+not ajax website: 44191 http://www.jn001.com/travel/2014-09/26/content_46093.htm
+not ajax website: 44294 http://epaper.wuhunews.cn/
+not ajax website: 44228 http://www.jn001.com/travel/2014-05/12/content_3121.htm
+not ajax website: 44346 http://www.dahuawang.com/gundong/pic.asp
+not ajax website: 44331 http://www.dahuawang.com/abvert/html/presscard1.asp
+ajax website: 44353 http://faxian.tzzx.net/threads?tag=%E8%8F%9C%E7%85%8E%E9%A5%BC
+not ajax website: 44356 http://fang.tzzx.net/house/59
+ajax website: 44357 http://faxian.tzzx.net/threads
+ajax website: 44363 http://faxian.tzzx.net/threads?tag=%E4%BA%B2%E5%AD%90
+ajax website: 44368 http://faxian.tzzx.net/threads?tag=%E8%BF%91%E9%83%8A%E6%B8%B8
+not ajax website: 44372 http://fang.tzzx.net/house/53
+ajax website: 44373 http://faxian.tzzx.net/threads?tag=%E5%A4%A7%E8%82%89%E9%9D%A2%E6%9D%A1
+ajax website: 44375 http://faxian.tzzx.net/threads?tag=%E5%92%96%E5%95%A1
+ajax website: 44378 http://faxian.tzzx.net/threads?tag=%E6%AD%A5%E8%A1%8C%E8%A1%97%E7%BE%8E%E9%A3%9F
+ajax website: 44388 http://faxian.tzzx.net/threads?tag=%E7%94%9C%E5%93%81
+not ajax website: 44392 http://www.chinajilin.com.cn/gclt/node_7058.htm
+not ajax website: 44431 http://car.jsw.com.cn
+not ajax website: 44466 http://www.smnet.com.cn/ztpd/
+ajax website: 44479 http://www.huangshannews.cn/t/web/templates/tour.jsp
+ajax website: 44495 http://epaper.pdsxww.com/pdsrb
+ajax website: 44505 http://www.huangshannews.cn/t/web/templates/house.jsp
+ajax website: 44517 http://epaper.pdsxww.com/pdswb
+not ajax website: 44518 http://www.pdsxww.com/misc/node_7261.htm
+ajax website: 44523 http://www.huangshannews.cn/t/web/templates/car.jsp
+ajax website: 44551 http://www.huangshannews.cn/t/web/templates/business.jsp
+not ajax website: 44553 http://www.chiznews.com/news/jddqtour/
+not ajax website: 44614 http://search.xmnn.cn/
+not ajax website: 44618 http://love.xmnn.cn/template/default/tttj/
+ajax website: 44637 http://sz.xmnn.cn/
+not ajax website: 44669 http://www.ndwww.cn/skin/ndwww/zn.htm
+ajax website: 44680 http://dzzz.ndwww.cn/quanjing/rdkm/index.html
+not ajax website: 44683 http://szb.ndwww.cn/
+not ajax website: 44686 http://www.ndwww.cn/yezt/mdrbs/Index.html
+not ajax website: 44696 http://www.ndwww.cn/young/
+not ajax website: 44732 http://zgsz.cqnews.net
+ajax website: 44792 http://www.qstheory.cn/qszq/lldb/index.htm
+ajax website: 44793 http://www.qstheory.cn/qsyw/index.htm
+ajax website: 44801 http://www.qstheory.cn/qsllqk/index.htm
+ajax website: 44803 http://www.qstheory.cn/subject.htm
+ajax website: 44818 http://www.zznews.cn/zhangzhoushiqing
+ajax website: 44839 http://www.zznews.cn/fangchan/system/2014/11/25/010506679.shtml
+ajax website: 44844 http://www.zznews.cn/news/system/2014/11/04/010488501.shtml
+ajax website: 44869 http://www.ah163.net/
+ajax website: 44853 http://www.zznews.cn/qiche/system/2014/11/27/010508917.shtml
+not ajax website: 44891 http://www.zgfxnews.com/yw/node_134.htm
+ajax website: 45009 http://bbs.cnjsjy.cn/forum-72-1.html
+not ajax website: 45013 http://www.cnjsjy.cn/node_207.htm
+ajax website: 45064 http://www.dxalrb.com/news_more.asp?lm=&lm2=83&lmname=0&open=1&n=34&tj=0&hot=0
+ajax website: 45069 http://www.dxalrb.com/js-pic.asp?lm=80
+not ajax website: 45102 http://www.smxdaily.com.cn/news/special/0/038618795064.html
+ajax website: 45128 http://photos.my0538.com/
+ajax website: 45141 http://app.my0538.com/?app=contribution&controller=index&action=index
+not ajax website: 45104 http://www.smxdaily.com.cn/picture.html
+ajax website: 45147 http://video.my0538.com/
+ajax website: 45171 http://video.my0538.com
+ajax website: 45264 http://bbs.lyrb.com.cn/forum-216-1.html
+ajax website: 45266 http://bbs.lyrb.com.cn/forum-177-1.html
+not ajax website: 45280 http://www.zisai.com/
+not ajax website: 45285 http://bbs.zisai.com/forum-20-1.html
+not ajax website: 45287 http://bbs.zisai.com/
+not ajax website: 45290 http://q.zisai.com/
+not ajax website: 45303 http://bbs.hdt.net.cn/
+not ajax website: 45333 http://bbs.lwzg.net.cn/
+ajax website: 45436 http://passport.weibo.com/visitor/visitor?a=enter&url=http%3A%2F%2Fweibo.com%2F2717656533&_rand=1417312243.3094
+not ajax website: 45443 http://www.nmtv.cn/gzq/index.shtml
+not ajax website: 45449 http://nmg.xinhuanet.com/xwzx/ztlibrary/ztgd.htm
+not ajax website: 45450 http://www.nmg.xinhuanet.com/mscz/mscz.htm
+not ajax website: 45453 http://www.nmg.xinhuanet.com/xwzx/xwlylibrary/xwlyb.htm
+not ajax website: 45454 http://nmg.xinhuanet.com/xwzx/xxfb/xxfbgd.htm
+not ajax website: 45616 http://www.fj.chinanews.com/new2014/zt/list.html
+ajax website: 45632 http://www.ptxw.com/xwpd/
+ajax website: 45633 http://www.ptxw.com/xwpd/hlsd/
+ajax website: 45634 http://www.ptxw.com/mzpd/spzx/
+ajax website: 45635 http://www.ptxw.com/whpd/
+not ajax website: 45668 http://www.sowto.com/
+ajax website: 45699 http://news.xmmh.net/newslist-3-0.html
+ajax website: 45700 http://news.xmmh.net/newslist-2-0.html
+ajax website: 45776 http://www.changle.com.cn/forum-107-1.html
+not ajax website: 45820 http://bbs.cnxz.com.cn/thread-htm-fid-208.html
+ajax website: 45822 http://sxdsb.voc.com.cn/class/ALL.html
+ajax website: 45823 http://bbs.jysq.net/forum-540-1.html
+ajax website: 45897 http://bbs.voc.com.cn/forum-295-1.html
+not ajax website: 45905 http://www.zge.gov.cn/zjzge/
+ajax website: 45899 http://www.htcnc.net/
+not ajax website: 45906 http://www.0513.org/
+not ajax website: 45910 http://www.zge.gov.cn/wsbs/
+ajax website: 45911 http://www.0470a.com/
+ajax website: 45912 http://article.0470a.com/
+ajax website: 45915 http://class.0470a.com/
+ajax website: 45917 http://job.0470a.com/
+ajax website: 45919 http://house.0470a.com/
+not ajax website: 45921 http://auto.0470a.com/
+ajax website: 45925 http://bbs.changde.gov.cn/thread-2
+ajax website: 45928 http://bbs.changde.gov.cn/thread-61
+not ajax website: 45942 http://lvyou.2345.com/jingdian-jilin1-0-0-0-1.html
+ajax website: 45970 http://www.hualongxiang.com/jiachangliduan
+ajax website: 45991 http://www.chinactv.com/folder4/
+ajax website: 46005 http://bbs.qidong.gov.cn/thread-htm-fid-32-type-230.html#tabA
+ajax website: 46007 http://bbs.qidong.gov.cn/thread-htm-fid-32-type-230-type-223.html#tabA
+ajax website: 46008 http://bbs.qidong.gov.cn/thread-htm-fid-32-type-223-type-221.html#tabA
+ajax website: 46014 http://gq.0437.com/
+not ajax website: 46015 http://www.0437.com/adweb/fcdr/
+not ajax website: 46018 http://read.0437.com/
+not ajax website: 46019 http://www.th.jl.cn/
+not ajax website: 46114 http://www.jsbc.com/dt/index.shtml
+ajax website: 46046 http://edu.jxntv.cn/
+ajax website: 46116 http://bbs.huaihai.tv/forum.php?mod=forumdisplay&fid=336
+not ajax website: 46117 http://www.huaihai.tv/special/xwzt/
+ajax website: 46157 http://www.js.xinhuanet.com/xwzx/minshengsj.htm
+ajax website: 46160 http://www.js.xinhuanet.com/xin_wen_zhong_xin/cjyw.htm
+ajax website: 46162 http://www.js.xinhuanet.com/xin_wen_zhong_xin/cjyhxw.htm
+ajax website: 46164 http://www.js.xinhuanet.com/xin_wen_zhong_xin/shangye.htm
+ajax website: 46166 http://www.js.xinhuanet.com/xin_wen_zhong_xin/cjjijin.htm
+ajax website: 46167 http://www.js.xinhuanet.com/xin_wen_zhong_xin/cjbaoxian.htm
+ajax website: 46169 http://www.js.xinhuanet.com/gmsc/ttxw_gmsc.htm
+ajax website: 46170 http://www.js.xinhuanet.com/gmsc/yw_gmsc.htm
+not ajax website: 46214 http://www.bc.jl.cn/
+ajax website: 46265 http://bbs.deey.cn/forum-61-1.html
+ajax website: 46274 http://www.cfsn.cn/locality/beijing/
+ajax website: 46368 http://www.unep.org/environmentalgovernance/
+not ajax website: 46733 http://epaper.qdcaijing.com/
+ajax website: 46775 http://tieba.baidu.com/f?kw=%E5%A4%A9%E7%B1%81&ie=utf-8
+ajax website: 46778 http://tieba.baidu.com/f?kw=%E4%BA%A4%E5%8F%8B&ie=utf-8
+not ajax website: 46803 http://ylmrw.mobi/lm_1387418591890736-1.html
+ajax website: 46825 http://www.9998.tv/dailiyixiang/
+ajax website: 46884 http://pp.ppsj.com.cn/
+not ajax website: 46986 http://www.mpcc.com.cn/2012/MMSH/profile/default.aspx
+not ajax website: 46989 http://www.mpcc.com.cn/2012/MMSH/Operation/default.aspx
+not ajax website: 46991 http://www.mpcc.com.cn/2012/MMSH/product/default.aspx
+not ajax website: 47026 http://baike.gucheng.com/
+not ajax website: 47068 http://www.xining.gov.cn/html/4204/list.html
+not ajax website: 47109 http://www.liuzhou.gov.cn/xwzx/spxw/
+not ajax website: 47183 http://www.gxjk.cn/news/gnxw/
+not ajax website: 47187 http://www.gxjk.cn/news/gjxw/
+not ajax website: 47190 http://www.gxjk.cn/news/ybxx/
+not ajax website: 47193 http://www.gxjk.cn/news/spyp/
+not ajax website: 47197 http://www.gxjk.cn/news/czws/
+not ajax website: 47199 http://www.gxjk.cn/news/jkgz/
+ajax website: 47323 http://money.163.com/latest/
+ajax website: 47422 http://weibo.com/gdzf
+not ajax website: 47522 http://www.mbdkjsw.com/Item/list.asp?id=928
+not ajax website: 47605 http://www.gxjjw.gov.cn/staticmores/701/701-1.shtml
+not ajax website: 47608 http://www.gxjjw.gov.cn/staticmores/708/708-1.shtml
+not ajax website: 47635 http://www.szsq.net/
+not ajax website: 47636 http://www.szsq.net/forum-42-1.html
+not ajax website: 47637 http://www.szsq.net/news/
+not ajax website: 47638 http://www.szsq.net/brand.html
+not ajax website: 47639 http://www.szsq.net/group.php
+not ajax website: 47651 http://www.82137777.com/
+ajax website: 47669 http://www.gzsa.gov.cn/
+ajax website: 47670 http://www.gzsa.gov.cn/publicfiles//business/htmlfiles/gzfood/xwzx/list.html
+ajax website: 47673 http://www.gzsa.gov.cn/publicfiles//business/htmlfiles/gzfood/jdxw/index.html
+ajax website: 47674 http://www.gzsa.gov.cn/publicfiles//business/htmlfiles/gzfood/jdgz/index.html
+ajax website: 47676 http://www.gzsa.gov.cn/publicfiles//business/htmlfiles/gzfood/gnxw/index.html
+ajax website: 47677 http://www.gzsa.gov.cn/publicfiles//business/htmlfiles/gzfood/gjxw/index.html
+ajax website: 47678 http://www.gzsa.gov.cn/publicfiles//business/htmlfiles/gzfood/sdbd/index.html
+ajax website: 47712 http://www.gzsa.gov.cn/publicfiles//business/htmlfiles/gzfood/spaqxczl/index.html
+ajax website: 47713 http://www.gzsa.gov.cn/publicfiles//business/htmlfiles/gzfood/xfzn/index.html
+ajax website: 47714 http://www.gzsa.gov.cn/publicfiles//business/htmlfiles/gzfood/spjc/index.html
+ajax website: 47715 http://www.gzsa.gov.cn/publicfiles//business/htmlfiles/gzfood/ysaq/list.html
+ajax website: 47716 http://www.gzsa.gov.cn/publicfiles//business/htmlfiles/gzfood/ztxc/list.html
+not ajax website: 47717 http://www.gzsa.gov.cn/publicfiles//business/htmlfiles/gzfood/zwgk/list.html
+ajax website: 47719 http://www.gzsa.gov.cn/publicfiles//business/htmlfiles/gzfood/msdt/list.html
+not ajax website: 47734 http://www.bxjyw.com/zwgk/jgzw/rsc/index.htm
+not ajax website: 47735 http://www.bxjyw.com/zwgk/jgzw/fzghc/index.htm
+not ajax website: 47741 http://www.bxjyw.com/zwgk/jgzw/twyc/index.htm
+not ajax website: 47747 http://www.bxjyw.com/zwgk/jgzw/gh/index.htm
+not ajax website: 47754 http://www.bxjyw.com/jspd/msda/index.htm
+not ajax website: 47757 http://www.bxjyw.com/xspd/xyzx/index.htm
+not ajax website: 47763 http://www.bxjyw.com/bxxx/bssxx/index.htm
+not ajax website: 47764 http://www.bxjyw.com/bxxx/szsxx/index.htm
+not ajax website: 47765 http://www.bxjyw.com/bxxx/psqxx/index.htm
+not ajax website: 47766 http://www.bxjyw.com/bxxx/msqxx/index.htm
+not ajax website: 47767 http://www.bxjyw.com/bxxx/xhqxx/index.htm
+not ajax website: 47768 http://www.bxjyw.com/bxxx/nfqxx/index.htm
+not ajax website: 47769 http://www.bxjyw.com/bxxx/kfqxx/index.htm
+not ajax website: 47770 http://www.bxjyw.com/bxxx/bxxxx/index.htm
+not ajax website: 47771 http://www.bxjyw.com/bxxx/hrxxx/index.htm
+not ajax website: 47773 http://www.bxjyw.com/bxxx/qt1/index.htm
+not ajax website: 47776 http://www.bxjyw.com/fwzn/tgxx/index.htm
+not ajax website: 47777 http://www.bxjyw.com/fwzn/bdfw/index.htm
+not ajax website: 47778 http://www.bxjyw.com/fwzn/sycx/index.htm
+not ajax website: 47779 http://www.bxjyw.com/fwzn/wzjs/index.htm
+not ajax website: 47780 http://www.bxjyw.com/fwzn/tplj/index.htm
+not ajax website: 47781 http://www.bxjyw.com/fwzn/wzlj/index.htm
+not ajax website: 47782 http://www.bxjyw.com/fwzn/ggtp1/index.htm
+not ajax website: 47783 http://www.bxjyw.com/fwzn/ggtp2/index.htm
+not ajax website: 47784 http://www.bxjyw.com/fwzn/dbggtp/index.htm
+not ajax website: 47785 http://www.bxjyw.com/fwzn/lxwm/index.htm
+not ajax website: 47806 http://www.sxdt-agri.gov.cn//dfxm/index1.asp?typeid=001001&t=1
+ajax website: 47808 http://www.sxdt-agri.gov.cn//news/index.asp
+not ajax website: 47810 http://www.sxdt-agri.gov.cn//mysupply/
+ajax website: 47811 http://www.sxdt-agri.gov.cn/#
+not ajax website: 47814 http://www.sxdt-agri.gov.cn//dfxm/index1.asp?typeid=001008&t=2
+not ajax website: 47819 http://www.sxdt-agri.gov.cn//news/lmztmore.asp?zt=zt&id=107
+ajax website: 47820 http://www.sxdt-agri.gov.cn/
+ajax website: 47825 http://www.nbweekly.com/culture/
+ajax website: 47827 http://www.nbweekly.com/magazine/
+ajax website: 47953 http://www.yljwb.cn//showclass.aspx?k=66E5950B018E734B
+ajax website: 47956 http://www.yljwb.cn//showclass.aspx?k=122A58A27D9335D6
+ajax website: 47957 http://www.yljwb.cn//showclass.aspx?k=1262D3B69F3781DC
+ajax website: 47958 http://www.yljwb.cn//showclass.aspx?k=00A1A9E128C36021
+ajax website: 47959 http://www.yljwb.cn//showclass.aspx?k=6FE7C53C3CE96AF5
+ajax website: 47960 http://www.yljwb.cn//showclass.aspx?k=EF2602CAF59457C8
+ajax website: 47962 http://www.yljwb.cn//showclass.aspx?k=8D8E482B1A9CA807
+ajax website: 47963 http://www.yljwb.cn//showclass.aspx?k=260F030412396CBD
+ajax website: 48093 http://bbs.fstv.com.cn/tv_schedule/
+not ajax website: 48094 http://bbs.fstv.com.cn/fstv/channel/ad/
+not ajax website: 48099 http://www.fstv.com.cn/zt/html/special/fstvAnchor2014/
+ajax website: 48100 http://www.weibo.com/fstv
+not ajax website: 48101 http://bbs.fstv.com.cn/fstv/channel/news/
+ajax website: 48102 http://bbs.fstv.com.cn/fstv/channel/movie/
+not ajax website: 48105 http://bbs.fstv.com.cn/fstv/channel/shunde/
+not ajax website: 48107 http://www.fstv.com.cn/foshi/
+not ajax website: 48130 http://www.qianhuaweb.com/node/node_18421.htm
+not ajax website: 48213 http://www.chinajilin.com.cn/zhuanti/node_26986.htm
+not ajax website: 48299 http://blog.163.com/special/001264EF/sec-page-health.html
+ajax website: 48333 http://newspaper.dbw.cn/hljcb
+ajax website: 48335 http://newspaper.dbw.cn/qqherb
+ajax website: 48337 http://newspaper.dbw.cn/jmsrb
+ajax website: 48339 http://sysrb.dzb.dbw.cn/
+ajax website: 48341 http://ycrb.dzb.dbw.cn/
+not ajax website: 48345 http://hgrb.dzb.dbw.cn/
+ajax website: 48347 http://newspaper.dbw.cn/shrb/
+ajax website: 48349 http://heihe.dzb.dbw.cn/
+ajax website: 48351 http://newspaper.dbw.cn/hcwb
+not ajax website: 48357 http://hrbfdczb.dzb.dbw.cn/
+ajax website: 48359 http://newspaper.dbw.cn/hlj-kexue/
+ajax website: 48380 http://www.wdlc.com.cn/
+ajax website: 48382 http://www.dbw.cn/wushu/
+not ajax website: 48409 http://appnet.dbw.cn/jiankang/zj_more.aspx
+not ajax website: 48435 http://beidahuang.dbw.cn/
+not ajax website: 48441 http://www.731museum.org.cn/
+not ajax website: 48465 http://blog.163.com/public/explore/
+not ajax website: 48501 http://124.95.171.19/zwgk/open/publicshow/indexOfzwgk.jsp?id=3683
+not ajax website: 48503 http://124.95.171.19/zwgk/open/publicshow/indexOfzwgk.jsp?id=3687
+not ajax website: 48504 http://124.95.171.19/zwgk/open/publicshow/indexOfzwgk.jsp?id=3691
+not ajax website: 48505 http://124.95.171.19/zwgk/open/publicshow/indexOfzwgk.jsp?id=3698
+not ajax website: 48506 http://124.95.171.19/zwgk/open/publicshow/indexOfzwgk.jsp?id=3700
+not ajax website: 48507 http://124.95.171.19/zwgk/open/publicshow/indexOfzwgk.jsp?id=13790
+not ajax website: 48508 http://124.95.171.19/zwgk/open/publicshow/indexOfzwgk.jsp?id=13791
+not ajax website: 48509 http://124.95.171.19/zwgk/open/publicshow/indexOfzwgk.jsp?id=13792
+not ajax website: 48510 http://124.95.171.19/zwgk/open/publicshow/indexOfzwgk.jsp?id=14398
+not ajax website: 48511 http://124.95.171.19/zwgk/open/publicshow/indexOfzwgk.jsp?id=
+not ajax website: 48568 http://www.northeast.gov.cn/index/dbfm-zrzy.htm
+ajax website: 48578 http://m.xwh.cn/picture/
+not ajax website: 48581 http://wsq.discuz.qq.com/?siteid=262334686&source=wap&c=index&a=index&mobile=2/
+not ajax website: 48584 http://m.xwh.cn/category/13
+not ajax website: 48586 http://m.xwh.cn/category/4
+not ajax website: 48610 http://news.wenweipo.com/list_news.php?cat=000IN&instantCat=finance
+not ajax website: 48617 http://sp.wenweipo.com/aipai/
+ajax website: 48620 http://sp.wenweipo.com/racing/
+ajax website: 48630 http://www.cnpri.com.cn/n945/index.html
+ajax website: 48631 http://www.cnpri.com.cn/n955/index.html
+not ajax website: 48632 http://www.cnpri.com.cn/n958/index.html
+ajax website: 48633 http://www.cnpri.com.cn/n989/index.html
+ajax website: 48634 http://www.cnpri.com.cn/n999/index.html
+not ajax website: 48635 http://www.cgnpc.com.cn/n168049/index.html
+ajax website: 48651 http://www.emersonnetworkpower.com/trellis/zh-CN/pages/Home.aspx
+ajax website: 48675 http://www.swsm.net/forum.php?mod=forumdisplay&amp;fid=453&amp;filter=typeid&amp;typeid=93
+ajax website: 48676 http://www.swsm.net/forum.php?mod=forumdisplay&amp;fid=453&amp;filter=typeid&amp;typeid=94
+not ajax website: 48678 http://www.swsm.net/forum.php?mod=forumdisplay&amp;fid=453&amp;filter=typeid&amp;typeid=255
+ajax website: 48682 http://www.swsm.net/forum.php?mod=forumdisplay&amp;fid=395&amp;filter=sortid&amp;sortid=20
+ajax website: 48683 http://www.swsm.net/forum.php?mod=forumdisplay&amp;fid=395&amp;filter=sortid&amp;sortid=14
+ajax website: 48684 http://www.swsm.net/forum.php?mod=forumdisplay&amp;fid=395&amp;filter=sortid&amp;sortid=19
+not ajax website: 48685 http://www.swsm.net/forum.php?mod=post&amp;action=newthread&amp;fid=395&amp;extra=page%3D1%26filter%3Dsortid%26sortid%3D22%26sortid%3D22&amp;sortid=22
+ajax website: 48687 http://www.swsm.net/forum.php?mod=forumdisplay&amp;fid=392&amp;filter=typeid&amp;typeid=273
+ajax website: 48692 http://www.swsm.net/forum.php?mod=forumdisplay&amp;fid=395&amp;filter=sortid&amp;sortid=15&amp;sortall=1
+ajax website: 48693 http://www.swsm.net/forum.php?mod=forumdisplay&amp;fid=395&amp;filter=sortid&amp;sortid=16&amp;sortall=1
+ajax website: 48694 http://www.swsm.net/forum.php?mod=forumdisplay&amp;fid=474&amp;filter=typeid&amp;typeid=124
+not ajax website: 48695 http://www.swsm.net/forum.php?mod=forumdisplay&amp;fid=395&amp;filter=sortid&amp;sortid=17&amp;sortall=1
+ajax website: 48696 http://www.swsm.net/forum.php?mod=forumdisplay&amp;fid=395&amp;filter=sortid&amp;sortid=18&amp;sortall=1
+ajax website: 48697 http://www.swsm.net/forum.php?mod=forumdisplay&amp;fid=474&amp;filter=typeid&amp;typeid=125
+ajax website: 48699 http://www.swsm.net/forum.php?mod=forumdisplay&amp;fid=477&amp;filter=typeid&amp;typeid=136
+ajax website: 48700 http://www.swsm.net/forum.php?mod=forumdisplay&amp;fid=477&amp;filter=typeid&amp;typeid=224
+ajax website: 48701 http://www.swsm.net/forum.php?mod=forumdisplay&amp;fid=477&amp;filter=typeid&amp;typeid=205
+not ajax website: 48759 http://www.hkcd.com/newslist_44_11.html
+not ajax website: 48779 http://www.dqccc.cc/
+ajax website: 48783 http://sw.techan.dqccc.com/
+not ajax website: 48785 http://sw.dqccc.com/commend/5139.html
+ajax website: 48787 http://sw.dqguo.com/cityInfo/CityNews.html
+ajax website: 48800 http://sw.perform.dqccc.com/
+not ajax website: 48810 http://sw.chongwu.dqccc.com/
+not ajax website: 48815 http://www.hkcd.com/newslist_45_11.html
+not ajax website: 48825 http://hunqing.dqccc.com/index-260.html
+not ajax website: 48833 http://jiameng.dqccc.com/quan/
+not ajax website: 48836 http://www.dqcccc.com/jiameng/
+not ajax website: 48838 http://wwz.dqccc.com/
+not ajax website: 48840 http://wwz.dqccc.com/proxy.htm
+ajax website: 48894 http://www.hkcd.com/newslist_46_11.html
+not ajax website: 48925 http://www.hkcd.com/newslist_38_11.html
+not ajax website: 48948 http://www.szlg.com/Category_1224/Index.aspx
+not ajax website: 48971 http://www.crbank.com.cn/
+not ajax website: 48976 http://www.hkcd.com/newslist_42_11.html
+not ajax website: 48981 http://www.crbank.com.cn/personal/
+ajax website: 48985 http://video.yjrb.com.cn/video/
+ajax website: 49002 http://nhyh.yjrb.com.cn/nh/sxtm/175.shtml
+not ajax website: 49078 http://www.hkcd.com/newslist_41_11.html
+not ajax website: 49091 http://www.hkcd.com/newslist_49_11.html
+ajax website: 49273 http://weibo.com/u/3645050395?from=profile&wvr=5&loc=infdomain
+not ajax website: 49278 http://www.gzcb.com.cn/i_zjyw/index.shtml
+not ajax website: 49281 http://www.gzcb.com.cn/tzzgx/index.shtml
+not ajax website: 49297 http://bank.pingan.com/geren/index.shtml
+not ajax website: 49302 http://zf.szhome.com/
+not ajax website: 49321 http://sd.szhome.com/
+not ajax website: 49324 http://bank.pingan.com/gongsi/index.shtml
+not ajax website: 49325 http://bank.pingan.com/tongye/index.shtml
+not ajax website: 49327 http://bank.pingan.com/touzi/index.shtml
+not ajax website: 49360 http://bank.pingan.com/about/index.shtml
+ajax website: 49369 http://yezhu.qingdaonews.com/forum-10564-1.html
+ajax website: 49865 http://yezhu.qingdaonews.com/forum-10897-1.html
+ajax website: 49948 http://www.singpao.com/xw/yl/
+ajax website: 50029 http://yezhu.qingdaonews.com/forum-10870-1.html
+not ajax website: 50193 http://yezhu.qingdaonews.com/forum-10993-1.html
+not ajax website: 50201 http://bbs.timedg.com/forum-26-1.html
+ajax website: 50206 http://yezhu.qingdaonews.com/forum-10961-1.html
+ajax website: 50472 http://yezhu.qingdaonews.com/forum-10864-1.html
+ajax website: 50482 http://yezhu.qingdaonews.com/forum-10834-1.html
+not ajax website: 50878 http://www.letian.net/event/
+not ajax website: 50883 http://www.lulubei.com
+not ajax website: 50889 http://www.dataiyuan.com
+not ajax website: 50897 http://www.yunhewang.com/
+ajax website: 50987 http://invest.hket.com
+ajax website: 50995 http://ps.hket.com
+ajax website: 50998 http://www.hket.com/eti//imoney/
+not ajax website: 51073 http://www.ln315.com/wqlm.asp
+not ajax website: 51080 http://www.ln315.com/xgwj.asp
+not ajax website: 51089 http://www.ln315.com/contact.asp
+ajax website: 51090 http://www.ln315.com/wzsm.asp
+not ajax website: 51091 http://www.ln315.com/ad.asp
+ajax website: 51165 http://www.keerqin.gov.cn/
+not ajax website: 51196 http://www.gssl.gov.cn/ztbd/index.html
+not ajax website: 51213 http://xxfb.hydroinfo.gov.cn/
+not ajax website: 51340 http://www.528500.com/forum-862-1.html
+not ajax website: 51342 http://www.zijing.org/yuqing
+not ajax website: 51360 http://www.zijing.org/zhuanti
+not ajax website: 51370 http://www.hkfe.hk/yzry.html
+not ajax website: 51397 http://bbs.cnstock.com/home.php?mod=space&uid=1239605&do=thread&view=me&from=space
+not ajax website: 51398 http://bbs.cnstock.com/guide-digest-1.html
+not ajax website: 51403 http://bbs.cnstock.com/guide-new-1.html
+not ajax website: 51405 http://bbs.cnstock.com/home.php?mod=space&uid=1411805&do=thread&view=me&from=space
+not ajax website: 51432 http://sh.sohu.com/20141124/n406333810.shtml
+ajax website: 51462 http://www.c114.net/rss/rss_news_17.xml
+ajax website: 51463 http://www.c114.net/rss/rss_news_24.xml
+not ajax website: 51473 http://www.menet.com.cn/information/index.htm
+ajax website: 51483 http://www.c114.net/rss/rss_news_549.xml
+not ajax website: 51501 http://www.menet.com.cn/List.aspx?classcode=1962
+ajax website: 51516 http://news.iresearch.cn/pics/
+not ajax website: 51533 http://www.menet.com.cn/List.aspx?classcode=201
+not ajax website: 51535 http://www.dfdaily.com/html/183/index.shtml
+ajax website: 51538 http://edu.sse.com.cn/
+not ajax website: 51543 http://www.menet.com.cn/List.aspx?classcode=202
+ajax website: 51544 http://www.smartshe.com/topic/inwords/careerwords/list_1.html
+not ajax website: 51555 http://www.smartshe.com/topic/inwords/newwords/2011/05/18/0828886D-9296-4E39-A381-944B594A24AA/
+not ajax website: 51561 http://home.cnhuadong.net/c-117.html
+not ajax website: 51562 http://www.menet.com.cn/List.aspx?classcode=1598
+not ajax website: 51563 http://home.cnhuadong.net/c-168.html
+ajax website: 51564 http://www.cnhuadong.net/go.htm?url=http://bbs.jyyuan.com
+not ajax website: 51565 http://home.cnhuadong.net/zx/bin_artlist.html?type=0&cid=73
+not ajax website: 51566 http://www.cnhuadong.net/go.htm?url=http://www.foodol.org/
+not ajax website: 51570 http://home.cnhuadong.net
+ajax website: 51571 http://www.cnhuadong.net/go.htm?url=http://news.hebei.com.cn/
+ajax website: 51572 http://www.cnhuadong.net/go.htm?url=http://www.qianlong.com/
+not ajax website: 51575 http://home.cnhuadong.net/c-125.html
+ajax website: 51576 http://www.cnhuadong.net/go.htm?url=http://www.ce.cn/
+not ajax website: 51577 http://home.cnhuadong.net/c-192.html
+not ajax website: 51580 http://home.cnhuadong.net/c-181.html
+not ajax website: 51581 http://www.menet.com.cn/information/03-Terminal.htm
+ajax website: 51582 http://www.cnhuadong.net/go.htm?url=http://www.enorth.com.cn/
+not ajax website: 51583 http://home.cnhuadong.net/zx/bin_artlist.html?type=0&cid=50
+not ajax website: 51584 http://home.cnhuadong.net/c-142.html
+ajax website: 51586 http://www.cnhuadong.net/go.htm?url=http://www.dbw.cn/
+not ajax website: 51588 http://home.cnhuadong.net/zx/bin_artlist.html?type=0&cid=77
+ajax website: 51589 http://www.cnhuadong.net/go.htm?url=http://www.mnjk120.cn/
+not ajax website: 51591 http://home.cnhuadong.net/
+ajax website: 51594 http://www.cnhuadong.net/go.htm?url=http://www.ncnews.com.cn/
+not ajax website: 51595 http://www.menet.com.cn/information/04-Healthy.htm
+ajax website: 51601 http://www.cnhuadong.net/go.htm?url=http://www.updayday.com
+not ajax website: 51602 http://home.cnhuadong.net/zx/bin_artlist.html?type=0&cid=58
+ajax website: 51604 http://www.cnhuadong.net/go.htm?url=http://www.cjzg.cn/
+ajax website: 51605 http://www.cnhuadong.net/go.htm?url=http://www.232100.cn
+not ajax website: 51608 http://home.cnhuadong.net/zx/bin_artlist.html?type=0&cid=69
+not ajax website: 51609 http://home.cnhuadong.net/word-138.html
+not ajax website: 51610 http://www.menet.com.cn/information/05-Innovation.htm
+not ajax website: 51611 http://home.cnhuadong.net/zx/bin_artlist.html?type=0&cid=65
+not ajax website: 51613 http://home.cnhuadong.net/c-134.html
+not ajax website: 51614 http://home.cnhuadong.net/zx/bin_artlist.html?type=0&cid=62
+ajax website: 51615 http://www.cnhuadong.net/go.htm?url=http://www.21jrr.com/
+ajax website: 51619 http://www.cnhuadong.net/go.htm?url=http://rednet.cn/
+ajax website: 51621 http://www.cnhuadong.net/go.htm?url=http://www.chinanews.com/
+not ajax website: 51623 http://home.cnhuadong.net/c-162.html
+not ajax website: 51624 http://www.menet.com.cn/information/06-Maintain.htm
+ajax website: 51626 http://www.cnhuadong.net/go.htm?url=http://www.ahrb.com.cn/
+ajax website: 51627 http://www.cnhuadong.net/go.htm?url=http://www.jxcn.cn/
+not ajax website: 51632 http://mo.onlylady.com
+ajax website: 51638 http://video.onlylady.com/weekly.shtml
+not ajax website: 51642 http://www.menet.com.cn/information/01-Policy.htm
+not ajax website: 51654 http://www.menet.com.cn/List.aspx?classid=27
+not ajax website: 51656 http://www.menet.com.cn/others/yqjc/index.html
+not ajax website: 51662 http://www.xinhuapo.com/index.php?m=content&c=index&a=lists&catid=166
+not ajax website: 51677 http://www.menet.com.cn/Vip/templets/index.aspx
+not ajax website: 51697 http://www.menet.com.cn/ListTitle.aspx?classcode=688
+not ajax website: 51713 http://www.menet.com.cn/information/02-IEconomy.htm
+ajax website: 51732 http://www.6665.com/plugin.php?id=appbyme_app:download
+ajax website: 51738 http://www.6665.com/forum-4429-1.html
+ajax website: 51754 http://www.6665.com/forum.php?mod=forumdisplay&fid=234&filter=typeid&typeid=268
+ajax website: 51755 http://www.6665.com/forum-4435-1.html
+ajax website: 51762 http://www.6665.com/home.php?mod=spacecp&ac=credit&op=buy
+ajax website: 51767 http://www.6665.com/forum-4488-1.html
+ajax website: 51779 http://www.6665.com/yezhu
+ajax website: 51804 http://bbs.metroer.com/stats.php?type=agent
+ajax website: 51806 http://bbs.metroer.com/stats.php?type=posts
+ajax website: 51807 http://bbs.metroer.com/stats.php?type=postsrank
+ajax website: 51809 http://bbs.metroer.com/stats.php
+ajax website: 51810 http://bbs.metroer.com/stats.php?type=trade
+ajax website: 51811 http://bbs.metroer.com/stats.php?type=threadsrank
+ajax website: 51813 http://bbs.metroer.com/stats.php?type=onlinetime
+ajax website: 51814 http://bbs.metroer.com/stats.php?type=forumsrank
+ajax website: 51816 http://bbs.metroer.com/stats.php?type=views
+not ajax website: 51880 http://www.sript.com.cn/106.html
+not ajax website: 51884 http://spc.sinopec.com/spc/csr/
+ajax website: 51885 http://spc.sinopec.com/spc/hr/
+not ajax website: 51888 http://www.secco.com.cn/zh_cn/responsibility/safety-and-environment.html
+not ajax website: 51889 http://www.secco.com.cn/zh_cn/joinus/social.html
+not ajax website: 51891 http://www.secco.com.cn/zh_cn/responsibility/Social-Responsibility.html
+ajax website: 51904 http://www.aegon-cnooc.com/
+ajax website: 51923 http://www.ebscn.com/main/hall/marketerquery/saleSearch/index.shtml
+not ajax website: 51924 http://www.ebscn.com/main/hall/outlets/index.shtml
+not ajax website: 51925 http://www.ebscn.com/main/aboutUs/qywh/index.shtml
+not ajax website: 51929 http://www.ebscn.com/main/hall/mobile/index.shtml
+not ajax website: 51930 http://www.ebscn.com/main/aboutUs/qygk/index.shtml
+not ajax website: 51933 http://www.ebscn.com/main/hall/outlets/index.shtml?isLink
+not ajax website: 51934 http://www.ebscn.com/main/aboutUs/rcjh/index.shtml
+not ajax website: 51936 http://www.2rich.net/Finance/top/top.jsp?page=top_amer
+not ajax website: 51937 http://www.2rich.net/Price/BondRates/AGBP.jsp
+not ajax website: 51938 http://www.2rich.net/Finance/top/top.jsp?page=top
+not ajax website: 51939 http://www.2rich.net/Finance/house/house.jsp?page=house_important
+not ajax website: 51940 http://www.2rich.net/Finance/stock/stock.jsp
+not ajax website: 51942 http://www.2rich.net/Finance/econ/econ.jsp?page=econ
+not ajax website: 51944 http://www.2rich.net/Finance/fx/fx.jsp
+not ajax website: 51945 http://www.2rich.net/Finance/inve/inve.jsp
+not ajax website: 51946 http://www.2rich.net/Finance/top/top.jsp
+not ajax website: 51947 http://www.2rich.net/Finance/house/house.jsp
+not ajax website: 51948 http://www.2rich.net/Finance/econ/econ.jsp?page=econ_hw
+not ajax website: 51949 http://www.2rich.net/Finance/bank/bank.jsp
+not ajax website: 51950 http://www.2rich.net/Finance/stock/stock.jsp?page=stock_cn
+not ajax website: 51951 http://www.2rich.net/Price/WorldForex/MajorForex.jsp
+not ajax website: 51953 http://www.2rich.net/Finance/house/house.jsp?page=house_policy
+not ajax website: 51954 http://www.2rich.net/Price/WorldStock/America.jsp
+not ajax website: 51955 http://www.2rich.net/Finance/house/house.jsp?page=house_city
+not ajax website: 51956 http://www.2rich.net/Finance/finance.htm
+not ajax website: 51957 http://www.2rich.net/Price/DomesticStock/HKTW.jsp
+not ajax website: 51958 http://www.2rich.net/Finance/top/top.jsp?page=top_cn
+not ajax website: 51960 http://www.2rich.net/Finance/bond/bond.jsp
+not ajax website: 51961 http://www.2rich.net/Finance/stock/stock.jsp?page=stock_amer
+not ajax website: 51962 http://www.2rich.net/Finance/house/house.jsp?page=house
+not ajax website: 51963 http://www.2rich.net/Finance/stock/stock.jsp?page=stock_hw
+not ajax website: 51964 http://www.2rich.net/Plan/wealthlife/newthought.jsp
+not ajax website: 51965 http://www.2rich.net/Price/DomesticStock/China.jsp
+not ajax website: 51966 http://www.2rich.net/Fund/watch/watch.jsp?page=fund_trend_scyw1
+not ajax website: 51967 http://www.2rich.net/Finance/econ/econ.jsp?page=econ_cn
+not ajax website: 51968 http://www.2rich.net/Plan/plan.htm
+not ajax website: 51969 http://www.2rich.net/Finance/econ/econ.jsp?page=econ_amer
+not ajax website: 51970 http://www.2rich.net/Finance/top/top.jsp?page=top_hw
+ajax website: 51974 http://www.sywg.com/sw/node189/node2062/node2069/index.html
+ajax website: 51975 http://www.sywg.com/sw/node189/node2062/node2066/node2079/index.html
+ajax website: 51977 http://www.gtja.com/portal/channel/pb
+not ajax website: 51978 http://www.gtja.com/portal/channel/gygsb.jhtml
+not ajax website: 51979 http://www.gtja.com/index/login.jsp?isSingle=0&isOnly_jy=0
+not ajax website: 51981 http://www.gtja.com/portal/channel/yjfw1.jhtml
+ajax website: 51982 http://ua.gtja.com/
+not ajax website: 51986 http://www.gtja.com/portal/channel/tzzgx.jhtml
+not ajax website: 52000 http://imoney.china.com.cn/interaction/baike.htm
+ajax website: 52026 http://finance.china.com.cn/stock/dzjy/index.shtml
+ajax website: 52034 http://finance.china.com.cn/roll.shtml
+not ajax website: 52084 http://wiki.icaidao.com/index.php?category-view-2045.html
+not ajax website: 52124 http://wiki.icaidao.com/index.php?category-view-2628.html
+ajax website: 52175 http://www.jgtzchina.com/zhuan.asp
+not ajax website: 52176 http://www.jgtzchina.com/chanpin.asp
+not ajax website: 52177 http://www.jgtzchina.com/zixun.asp
+not ajax website: 52178 http://www.jgtzchina.com/dao.asp
+ajax website: 52179 http://www.jgtzchina.com/luntan.asp
+not ajax website: 52180 http://www.jgtzchina.com/fengmian.asp
+not ajax website: 52181 http://www.jgtzchina.com/jujiao.asp
+not ajax website: 52182 http://www.jgtzchina.com/
+not ajax website: 52218 http://f.smm.cn/Trust
+ajax website: 52419 http://q.dianping.com
+ajax website: 52426 http://www.dianping.com/events/m/index.htm
+not ajax website: 52662 http://hjfc.shop.iefang.com
+not ajax website: 52799 http://www.51room.net/personal.aspx
+ajax website: 52901 http://www.dzjkw.com/jk/2.html
+not ajax website: 52921 http://www.dzjkw.com/jk/3.html
+ajax website: 52927 http://www.dzjkw.com/jk/1.html
+not ajax website: 52945 http://www.shmec.gov.cn/web/hdpt/jdts_index.php?tpl=jysf
+not ajax website: 52975 http://finance.eastday.com/stock/wlhm/index.html
+not ajax website: 53014 http://bbs.yingjiesheng.com/forum-2980-1.html
+not ajax website: 53475 http://blog.39.net/BlogerList.html
+ajax website: 53558 http://www.kankanews.com/zd/xwyx/index.html
+ajax website: 53560 http://www.kankanews.com/zd/dfxw/index.html
+not ajax website: 53562 http://live.kankanews.com/huikan/?cid=210&time=1366281000
+ajax website: 53566 http://www.kankanews.com/zd/xwbd/index.html
+not ajax website: 53569 http://live.kankanews.com/
+not ajax website: 53571 http://live.kankanews.com/huikan/?cid=216&time=1366279200
+not ajax website: 53578 http://110.kankanews.com/
+not ajax website: 53588 http://www.kankanews.com/d/mobile/
+ajax website: 53589 http://www.kankanews.com/zd/zbsh/index.html
+ajax website: 53604 http://www.kankanews.com/zd/zwx/index.html
+ajax website: 53606 http://www.ysjyw.org/sec.asp?tunecode=120&tunename=原创天地
+ajax website: 53607 http://www.ysjyw.org/sec.asp?tunecode=121&tunename=艺苑群芭
+ajax website: 53608 http://www.ysjyw.org/sec.asp?tunecode=122&tunename=网上展台
+ajax website: 53610 http://www.ysjyw.org/sec.asp?tunecode=116&tunename=特色学校
+ajax website: 53611 http://www.ysjyw.org/sec.asp?tunecode=113&tunename=艺术培训
+ajax website: 53613 http://www.ysjyw.org/sec.asp?tunecode=119&tunename=服务指南
+ajax website: 53614 http://www.ysjyw.org/sec.asp?tunecode=117&tunename=艺教资源
+ajax website: 53620 http://zj.netcoc.com
+ajax website: 53625 http://life.netcoc.com
+ajax website: 53626 http://trend.netcoc.com
+ajax website: 53628 http://gd.netcoc.com
+ajax website: 53630 http://house.netcoc.com
+ajax website: 53632 http://video.netcoc.com
+not ajax website: 53661 http://news.bioon.com/listft.html
+not ajax website: 53682 http://www.cjs.com.cn/SHTML/421/list/list1.html
+not ajax website: 53685 http://www.cjs.com.cn/SHTML/412/list/list1.html
+not ajax website: 53687 http://www.cjs.com.cn/SHTML/411/list/list1.html
+not ajax website: 53690 http://www.cjs.com.cn/SHTML/429/list/list1.html
+not ajax website: 53691 http://www.cjs.com.cn/SHTML/470/list/list1.html
+not ajax website: 53692 http://www.cjs.com.cn/SHTML/513/list/list1.html
+not ajax website: 53693 http://www.cjs.com.cn/SHTML/413/list/list1.html
+not ajax website: 53694 http://www.cjs.com.cn/SHTML/419/list/list1.html
+not ajax website: 53696 http://www.cjs.com.cn/SHTML/511/list/list1.html
+not ajax website: 53697 http://www.cjs.com.cn/SHTML/380/list/list1.html
+not ajax website: 53698 http://www.cjs.com.cn/SHTML/512/list/list1.html
+not ajax website: 53700 http://www.cjs.com.cn/SHTML/423/list/list1.html
+not ajax website: 53702 http://www.cjs.com.cn/SHTML/422/list/list1.html
+not ajax website: 53703 http://www.cjs.com.cn/SHTML/428/list/list1.html
+not ajax website: 53705 http://www.cjs.com.cn/SHTML/415/list/list1.html
